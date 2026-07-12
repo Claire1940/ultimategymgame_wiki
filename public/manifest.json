@@ -1,11 +1,11 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "Ultimate Gym Game Wiki - Codes, Exercises & Progression",
+  "short_name": "Ultimate Gym Game",
+  "description": "Ultimate Gym Game Wiki covers codes, exercises, muscle growth, training zones, food, supplements, ranks, records, updates, and beginner progression tips.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
+  "theme_color": "#7c3aed",
   "background_color": "#0a0a0a",
   "icons": [
     {
