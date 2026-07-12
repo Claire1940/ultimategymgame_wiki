@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Ultimate Gym Game Wiki - Codes, Exercises & Progression",
+      "description": "Ultimate Gym Game Wiki covers codes, exercises, muscle growth, training zones, food, supplements, ranks, records, updates, and beginner progression tips.",
+      "keywords": "Ultimate Gym Game, Roblox, codes, exercises, muscles, training, ranks, supplements",
+      "ogTitle": "Ultimate Gym Game Wiki - Codes, Exercises & Progression",
+      "ogDescription": "Ultimate Gym Game Wiki covers codes, exercises, muscle growth, training zones, food, supplements, ranks, records, updates, and beginner progression tips.",
+      "twitterTitle": "Ultimate Gym Game Wiki - Codes, Exercises & Progression",
+      "twitterDescription": "Ultimate Gym Game Wiki covers codes, exercises, muscle growth, training zones, food, supplements, ranks, and progression tips for the Roblox game."
     }
   },
   "nav": {
@@ -21,7 +21,7 @@
   "common": {
     "home": "Home",
     "more": "More",
-    "playNow": "Play on Steam",
+    "playNow": "Play on Roblox",
     "switchLanguage": "Switch Language",
     "switchTheme": "Switch Theme",
     "lightMode": "Light Mode",
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Realistic Bodybuilding Simulator",
+    "title": "Ultimate Gym Game Wiki",
+    "description": "Lift, grow, bulk or cut through 31+ exercises, train strength, hypertrophy and endurance, manage supplements, set personal records and climb the ranks.",
+    "getFreeCodesCTA": "Get Free Codes",
+    "playOnRobloxCTA": "Play on Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "31+",
+        "label": "Exercises Available"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "3",
+        "label": "Training Zones"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "Beginner → Grand Master",
+        "label": "Rank Progression"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "KG + LBS",
+        "label": "Weight Units"
       }
     }
   },
@@ -785,26 +785,25 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready to Get Stronger in Ultimate Gym Game?",
+    "description": "Join the Ultimate Gym Game community for training tips, codes, updates, and discussions!",
+    "joinCommunity": "Join Community",
+    "joinGame": "Play on Roblox"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Ultimate Gym Game Wiki",
+    "description": "Your complete resource for Ultimate Gym Game codes, exercises, training, nutrition, ranks, and progression guides on Roblox.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "robloxCommunity": "Roblox Community",
+    "youtube": "YouTube",
+    "robloxGame": "Roblox Game",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Ultimate Gym Game Wiki. Not affiliated with the developers of Ultimate Gym Game or Roblox Corporation.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
