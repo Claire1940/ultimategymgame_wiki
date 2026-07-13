@@ -1,0 +1,145 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "Ultimate Gym Zone Unlocks: Progression Map & Gym Upgrades",
+  description: "Unlock all zones and premium equipment in Ultimate Gym. Follow our step-by-step progression guide, zone requirements, and upgrade milestones.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/1e293b/fff?text=Gym+Zone+Unlocks",
+  date: "2026-07-13",
+  author: "ultimate gym Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **Primary Goal**: Master the **ultimate gym zone unlocks** by systematically increasing your reputation, cash flow, and athlete level.
+- **Key Mechanic**: Zone unlocking is gated behind reputation milestones, specific licensing fees, and boss challenges.
+- **Best Strategy**: Prioritize high-yield cardio and strength machines early on to maximize passive income before expanding.
+- **Critical Tip**: Never neglect the maintenance and utility rooms; keeping your gym clean directly impacts your reputation growth rate.
+- **Top Choice**: Focus your initial capital on the Free Weight Area to secure steady, high-margin member subscriptions.
+</Callout>
+
+<Section icon={Map} title="Ultimate Gym Zone Unlocks: Core Progression Map">
+
+To dominate the fitness industry, you must systematically expand your facility. The **ultimate gym zone unlocks** progression is structured to test both your financial management and your training efficiency. Unlocking new zones grants access to specialized equipment, high-profile clientele, and massive revenue boosts. 
+
+The table below outlines the unlock requirements, costs, and primary benefits of each major zone in the game.
+
+| Zone Name | Reputation Level | Unlock Cost (Cash) | Primary Benefit |
+| :--- | :--- | :--- | :--- |
+| **Cardio Zone** | Level 1 | Free (Starter) | Steady early-game cash flow |
+| **Free Weight Area** | Level 3 | $5,000 | Unlocks dumbbell racks, high-margin members |
+| **Strength Machine Section** | Level 5 | $12,500 | Attracts dedicated bodybuilders |
+| **Group Fitness Studio** | Level 8 | $30,000 | Unlocks scheduled classes and hourly trainers |
+| **Recovery & Spa Lounge** | Level 12 | $75,000 | Boosts member retention, premium subscription tier |
+| **VIP Performance Center** | Level 15 | $150,000 | Unlocks elite athlete training and custom gear |
+
+<Callout type="tip" title="Pro Tip">
+Do not rush to unlock the Recovery & Spa Lounge until you have at least $100,000 in reserve. The maintenance costs of spa equipment can quickly drain your daily cash flow if you do not have a steady stream of VIP members.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Step-by-Step Zone Unlocking Process">
+
+Unlocking a zone is not just about having enough cash in your bank account. You must complete a series of operational milestones to officially cut the ribbon on your new facilities.
+
+<Steps>
+  <Step num="1" title="Reach the Reputation Milestone">
+    Increase your gym's rating by keeping equipment clean, hiring qualified staff, and ensuring members do not wait too long for machines.
+  </Step>
+  <Step num="2" title="Accumulate Capital and Purchase Licenses">
+    Save the required cash and navigate to the Management Menu. Purchase the specific zone license to initiate construction.
+  </Step>
+  <Step num="3" title="Complete the Zone Challenge">
+    Some high-tier zones require you to complete a specific challenge, such as training an athlete to a designated strength level or hosting a successful group event.
+  </Step>
+  <Step num="4" title="Furnish and Staff the Area">
+    Once unlocked, place high-quality equipment immediately. Hire dedicated trainers or maintenance workers to keep the zone running at peak efficiency.
+  </Step>
+</Steps>
+
+<Callout type="warning" title="Warning">
+Leaving an unlocked zone empty or understaffed will cause a sharp drop in overall member satisfaction, actively hurting your reputation progress.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Equipment Upgrades and Zone Synergy">
+
+Every unlocked zone features a dedicated upgrade path. Upgrading your equipment increases the rate at which members gain stats and pay membership fees. Maximizing synergy between adjacent zones can yield massive efficiency bonuses.
+
+| Equipment Type | Target Zone | Upgrade Cost | Stat Boost | Revenue Increase |
+| :--- | :--- | :--- | :--- | :--- |
+| **Commercial Treadmill v2** | Cardio Zone | $2,500 | +15% Stamina | +$10/hour |
+| **Olympic Barbell Station** | Free Weight Area | $6,000 | +25% Strength | +$25/hour |
+| **Deluxe Cable Crossover** | Strength Machine | $10,000 | +20% Power | +$35/hour |
+| **Yoga Mat & Reformer Set** | Group Studio | $15,000 | +30% Agility | +$50/hour |
+| **Cryotherapy Chamber** | Recovery Lounge | $40,000 | +50% Recovery | +$120/hour |
+
+<CardGrid cols={3}>
+  <Card title="Cardio & Strength Synergy">
+    Placing the Cardio Zone adjacent to the Strength Machine Section grants a **10% speed boost** to member training transitions.
+  </Card>
+  <Card title="Recovery Optimization">
+    Locating the Recovery Lounge near the VIP Performance Center increases VIP member satisfaction by **15%**.
+  </Card>
+  <Card title="Staff Efficiency">
+    Centralizing your staff break room reduces employee fatigue recovery time by **20%** across all active zones.
+  </Card>
+</CardGrid>
+
+<Callout type="success" title="Success Metric">
+Ensuring your equipment is upgraded to at least Level 2 before unlocking the next zone guarantees you will maintain a positive daily cash flow.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Progression Checklist & Milestones">
+
+Use this checklist to track your progress as you work toward creating the ultimate fitness empire.
+
+<Checklist
+  id="gym-unlock-milestones"
+  title="Ultimate Gym Progression Checklist:"
+  items={[
+    "Unlock the Free Weight Area and purchase 3 Dumbbell Racks",
+    "Reach Reputation Level 5 to unlock Strength Machines",
+    "Hire your first Group Class Instructor for the Studio",
+    "Unlock the Recovery & Spa Lounge and install a Sauna",
+    "Achieve VIP Performance Center status and train an Elite Athlete"
+  ]}
+/>
+
+<Callout type="info" title="Note">
+Elite athletes will occasionally visit your gym once the VIP Performance Center is unlocked. Successfully training them to their target stats unlocks exclusive, high-tier decorative items and massive reputation boosts.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Frequently Asked Questions">
+
+<FAQ items={[
+  {
+    question: "What is the fastest way to trigger the ultimate gym zone unlocks?",
+    answer: "The fastest way is to focus entirely on member satisfaction early on. Keep your machines clean, minimize queue times by buying duplicate popular machines, and reinvest all early profits directly into reputation-boosting upgrades."
+  },
+  {
+    question: "Can I relocate zones after unlocking them?",
+    answer: "Yes, you can redesign your gym layout at any time through the construction menu. Moving equipment is free, but changing the physical walls of a zone may incur a small construction fee."
+  },
+  {
+    question: "Why is my reputation dropping after unlocking a new zone?",
+    answer: "This usually happens because the new zone is under-equipped or lacks proper maintenance. If members enter a new zone and find dirty machines or long lines, their satisfaction will decrease, lowering your overall reputation."
+  },
+  {
+    question: "Do VIP members use standard zones?",
+    answer: "Yes, VIP members will use all zones, but they prioritize the VIP Performance Center and the Recovery & Spa Lounge. Having high-tier equipment in standard zones will further increase their payout."
+  }
+]} />
+
+</Section>

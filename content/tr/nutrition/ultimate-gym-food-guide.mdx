@@ -1,0 +1,161 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "Ultimate Gym Beslenme Rehberi: Adım Adım Kas Geliştirme Beslenmesi",
+  description: "Bu nihai spor salonu beslenme rehberi ile fitness beslenmenizde uzmanlaşın. Optimal öğün zamanlamasını, yüksek proteinli gıda seçimlerini ve günlük öğün planlamasını öğrenin.",
+  category: "Rehber",
+  image: "https://placehold.co/800x400/1e293b/fff?text=Gym+Food+Nutrition+Guide",
+  date: "2026-07-13",
+  author: "ultimate gym Wiki Ekibi",
+  keywords: "gym beslenme rehberi, kas geliştirme, protein diyeti, öğün planlama, sporcu beslenmesi"
+}
+
+<Callout type="info" title="Hızlı Rehber">
+- **Ultimate gym beslenme rehberi**: Günlük protein alımınızı yüksek kaliteli doğal gıdalar etrafında yapılandırarak optimal kas büyümesi elde edin.
+- **Protein hedefi**: Anabolik durumu sürdürmek için günlük vücut ağırlığının libre başına 1 ila 2 gram protein tüketin.
+- **Öğün sıklığı**: Kas proteini sentezini en üst düzeye çıkarmak için beslenmenizi her 2 ila 3 saatte bir tutarlı öğünlere bölün.
+- **Karbonhidrat zamanlaması**: Antrenmanlarınızın yakınında hızlı sindirilen karbonhidratlar tüketin ve akşam geç saatlerde bunları azaltın.
+</Callout>
+
+<Section icon={Map} title="Kas Gelişimi İçin Temel Beslenme Esasları">
+
+Belirgin ve kaslı bir vücuda ulaşmak, günlük beslenmenize yapılandırılmış bir yaklaşım gerektirir. Bu **ultimate gym beslenme rehberi**, yoğun antrenmanları desteklemek, iyileşmeyi hızlandırmak ve tutarlı bir anabolik durumu sürdürmek için gereken temel diyet ilkelerini açıklar. Uygun bir beslenme planı olmadan, en zorlu antrenman programları bile maksimum sonuç vermeyecektir.
+
+Verimli bir şekilde kas inşa etmek için üç temel sütuna odaklanmalısınız: tutarlı kalori fazlası, yüksek kaliteli protein dağılımı ve stratejik makro besin zamanlaması.
+
+| Diyet Sütunu | Birincil Hedef | Temel Besin Kaynakları |
+|---|---|---|
+| **Protein Alımı** | Kas onarımı ve sentezi | Tavuk göğsü, yağsız sığır eti, yumurta, whey |
+| **Karbonhidrat Yakıtı** | Glikojen depolarını doldurma ve enerji | Yulaf ezmesi, pirinç, irmik lapası |
+| **Sağlıklı Yağlar** | Hormonal denge ve eklem desteği | Tam yağlı süt, yumurta sarısı, zeytinyağı |
+
+<Callout type="tip" title="Anabolik Pencere İpucu">
+Her birkaç saatte bir yüksek kaliteli besinler tüketmek, vücudunuzun kas dokusunun enerji için yıkıldığı katabolik bir duruma girmesini önler. Tutarlılık, mükemmel zamanlamadan daha değerlidir.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Yüksek Proteinli Gıda Seçim Matrisi">
+
+Protein, kas dokusunun temel yapı taşıdır. Hipertrofiyi (kas büyümesini) en üst düzeye çıkarmak için sporcular, eksiksiz amino asit profilleri sunan yüksek verimli protein kaynaklarını hedeflemelidir. Aşağıdaki karşılaştırmalı matris, günlük öğün hazırlığınıza dahil edebileceğiniz en etkili protein kaynaklarını göstermektedir.
+
+<CardGrid cols={3}>
+  <Card title="Kümes Hayvanları ve Beyaz Et">
+    - **Tavuk Göğsü**: Son derece yağsız, yüksek verimli protein kaynağı.
+    - **Sindirebilirlik**: Hızlı ve mideyi yormayan yapı.
+    - **En İyi Kullanım**: Antrenman öncesi veya gün ortası öğünleri.
+  </Card>
+  <Card title="Kırmızı Et ve Bütün Yumurta">
+    - **Yağsız Sığır Eti**: Doğal demir, çinko ve kreatin ile doludur.
+    - **Bütün Yumurta**: Mükemmel bir sağlıklı yağ ve mikro besin kaynağıdır.
+    - **En İyi Kullanım**: Antrenman sonrası veya akşam yenilenme öğünleri.
+  </Card>
+  <Card title="Sıvı ve Toz Takviyeler">
+    - **Whey Proteini**: Hızlı iyileşme için ultra hızlı emilim oranı.
+    - **Tam Yağlı Süt**: Hızlı kütle kazanımı için yüksek kalorili seçenek.
+    - **En İyi Kullanım**: Antrenmandan hemen sonra veya sabah erken saatlerde.
+  </Card>
+</CardGrid>
+
+| Besin Kaynağı | 100g Başına Protein | 100g Başına Yağ | Sindirim Hızı |
+|---|---|---|---|
+| **Tavuk Göğsü** | 31g | 3.6g | Orta |
+| **Yağsız Sığır Bifteği** | 26g | 8g | Yavaş |
+| **Bütün Yumurta** | 13g | 11g | Orta |
+| **Whey Proteini Tozu** | 80g | 2g | Hızlı |
+
+<Callout type="info" title="Makro Besin Dengesi">
+Protein öncelikli olsa da, diyet yağlarını tamamen hayatınızdan çıkarmayın. Sağlıklı yağlar, kas korunmasını ve büyümesini doğrudan etkileyen optimal hormon üretimini sürdürmek için çok önemlidir.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Adım Adım Günlük Öğün Hazırlığı">
+
+Günlük öğünlerinizi yapılandırmak, fast food veya hazır gıdalara bağımlı kalmadan hedef makrolarınıza ulaşmanızı sağlar. Günlük beslenme planınızı düzenlemek için bu sistematik yaklaşımı takip edin.
+
+<Steps>
+  <Step num="1" title="Günlük Makro Besin Hedeflerini Hesaplayın">
+    Toplam günlük kalori ihtiyacınızı belirleyin. Kas hipertrofisi için, koruma kalorinizi 300 ila 500 kalori aşan makul bir kalori fazlası hedefleyin. Protein hedefinizi vücut ağırlığınızın libre başına 1 ila 2 gram arasında belirleyin.
+  </Step>
+  <Step num="2" title="Doğal Gıdaları Temin Edin ve Hazırlayın">
+    Proteinlerinizi, karbonhidratlarınızı ve sebzelerinizi toplu olarak satın alın. Tavuk, sığır eti ve pirincinizi önceden pişirmek için haftada iki gün ayırın. Bu, günlük hazırlık süresini azaltır ve öğün kaçırmanızı önler.
+  </Step>
+  <Step num="3" title="Öğün Zamanlamasını Antrenmana Göre Yapılandırın">
+    En büyük karbonhidrat öğünlerinizi antrenmandan önce ve hemen sonrasına planlayın. Bu, kaslarınızın enerji için yeterli glikojene sahip olmasını ve iyileşme sırasında hızlı bir şekilde yenilenmesini sağlar.
+  </Step>
+  <Step num="4" title="Haftalık Olarak Takip Edin ve Ayarlayın">
+    Vücut ağırlığınızı ve fiziksel değişimlerinizi takip edin. Kilo alımı durursa, günlük karbonhidrat alımınızı 50 gram artırın. Yağ kazanımı çok hızlıysa, proteini sabit tutarak diyet yağlarını hafifçe azaltın.
+  </Step>
+</Steps>
+
+<Callout type="warning" title="Sık Yapılan Hazırlık Hatalarından Kaçının">
+Gizli kaloriler ekleyen aşırı soslar ve çeşnilerle öğünlerinizi karmaşıklaştırmayın. Yiyeceklerinizi temiz, ölçülebilir ve kolay sindirilebilir tutun.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Antrenman Beslenmesi: Öncesi, Esnası ve Sonrası">
+
+Antrenman seansınızın öncesinde ve sonrasında ne yediğiniz, antrenmanınızın yoğunluğunu ve iyileşme hızınızı belirler. Besinlerinizi doğru zamanlamak, kas pompasını (pump) en üst düzeye çıkarır ve kas ağrısını en aza indirir.
+
+| Aşama | Zamanlama | Önerilen Beslenme | Hedef |
+|---|---|---|---|
+| **Antrenman Öncesi** | 1.5 - 2 Saat Önce | Tavuk göğsü, pirinç, brokoli | Sürekli enerji, kas dolgunluğu |
+| **Antrenman Esnası** | Antrenman Sırasında | Hızlı sindirilen karbonhidratlar, temel amino asitler | Performansı koruma, yorgunluğu azaltma |
+| **Antrenman Sonrası** | 1 Saat İçinde | Whey proteini, yulaf ezmesi veya yağsız sığır eti | Kas onarımı, glikojen yenilenmesi |
+
+<Callout type="success" title="Antrenman Esnası Karbonhidratları">
+Uzun ve yoğun antrenman seansları sırasında hızlı sindirilen bir karbonhidrat kaynağı eklemek, dayanıklılığı önemli ölçüde artırabilir, kaslarınızı hidrate ve dolgun tutabilir.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Başarı İçin Günlük Beslenme Kontrol Listesi">
+
+Fiziksel gelişim hedeflerinizde doğru yolda kalmak için, beslenme kriterlerinizi karşıladığınızdan emin olmak üzere bu günlük kontrol listesini kullanın.
+
+<Checklist
+  id="daily-nutrition-checklist"
+  title="Günlük Beslenme Kriterleri:"
+  items={[
+    "Vücut ağırlığının libre başına 1-2g olan günlük protein hedefine ulaşın",
+    "Optimal kas hidrasyonu için günde en az 3-4 litre su tüketin",
+    "Antrenmandan 90 ila 120 dakika önce dengeli bir antrenman öncesi öğünü yiyin",
+    "Diyet aksamalarını önlemek için ertesi günün tüm öğünlerini hazırlayın",
+    "İşlenmiş şekerleri sınırlayın ve temiz, doğal gıda kaynaklarına odaklanın"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Sparkles} title="Sıkça Sorulan Sorular">
+
+Diyetinizi geliştirmenize yardımcı olmak için, kas geliştirme beslenmesiyle ilgili en yaygın soruların yanıtlarını burada bulabilirsiniz.
+
+<FAQ items={[
+  {
+    question: "Bu ultimate gym beslenme rehberinde gerçekten ne kadar proteine ihtiyacım var?",
+    answer: "Optimal kas büyümesi için, 4 ila 6 öğüne eşit olarak dağıtılmış, günlük vücut ağırlığının libre başına 1 ila 2 gram protein hedefleyin."
+  },
+  {
+    question: "Uyumadan önce karbonhidrat yemeli miyim?",
+    answer: "Genellikle akşam geç saatlerde karbonhidratları azaltmanız; gece boyunca yenilenmeyi desteklemek için yavaş sindirilen proteinlere ve sağlıklı yağlara odaklanmanız önerilir."
+  },
+  {
+    question: "Doğal gıda öğünlerini protein tozları ile değiştirebilir miyim?",
+    answer: "Protein tozları pratik olsa da; hayati mikro besinler içeren ve daha yüksek tokluk hissi sağlayan tavuk, sığır eti ve yumurta gibi doğal gıda kaynaklarının yerini almamalıdır."
+  },
+  {
+    question: "Başlangıç kalori fazlamı nasıl hesaplarım?",
+    answer: "Çevrimiçi bir hesaplayıcı kullanarak koruma kalorinizi bulun, ardından günde 300 ila 500 temiz kalori ekleyin. Gelişiminizi haftalık olarak takip edin ve gerektiği gibi ayarlayın."
+  }
+]} />
+
+</Section>

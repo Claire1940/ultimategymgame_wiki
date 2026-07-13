@@ -1,1 +1,650 @@
-{}
+{
+  "en": {
+    "codes": [
+      {
+        "slug": "ultimate-gym-codes",
+        "file": "ultimate-gym-codes"
+      }
+    ],
+    "exercises": [
+      {
+        "slug": "ultimate-gym-best-exercises",
+        "file": "ultimate-gym-best-exercises"
+      },
+      {
+        "slug": "ultimate-gym-best-machines",
+        "file": "ultimate-gym-best-machines"
+      },
+      {
+        "slug": "ultimate-gym-calisthenics-guide",
+        "file": "ultimate-gym-calisthenics-guide"
+      },
+      {
+        "slug": "ultimate-gym-exercise-guide",
+        "file": "ultimate-gym-exercise-guide"
+      },
+      {
+        "slug": "ultimate-gym-muscle-exercises",
+        "file": "ultimate-gym-muscle-exercises"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "ultimate-gym-beginner-guide",
+        "file": "ultimate-gym-beginner-guide"
+      },
+      {
+        "slug": "ultimate-gym-controls",
+        "file": "ultimate-gym-controls"
+      },
+      {
+        "slug": "ultimate-gym-how-to-play",
+        "file": "ultimate-gym-how-to-play"
+      },
+      {
+        "slug": "ultimate-gym-progression-guide",
+        "file": "ultimate-gym-progression-guide"
+      },
+      {
+        "slug": "ultimate-gym-starting-guide",
+        "file": "ultimate-gym-starting-guide"
+      },
+      {
+        "slug": "ultimate-gym-tips-and-tricks",
+        "file": "ultimate-gym-tips-and-tricks"
+      }
+    ],
+    "money": [
+      {
+        "slug": "ultimate-gym-best-money-method",
+        "file": "ultimate-gym-best-money-method"
+      },
+      {
+        "slug": "ultimate-gym-cash-spending-guide",
+        "file": "ultimate-gym-cash-spending-guide"
+      },
+      {
+        "slug": "ultimate-gym-early-game-cash-route",
+        "file": "ultimate-gym-early-game-cash-route"
+      },
+      {
+        "slug": "ultimate-gym-money-making-guide",
+        "file": "ultimate-gym-money-making-guide"
+      }
+    ],
+    "nutrition": [
+      {
+        "slug": "ultimate-gym-food-guide",
+        "file": "ultimate-gym-food-guide"
+      },
+      {
+        "slug": "ultimate-gym-food-prices",
+        "file": "ultimate-gym-food-prices"
+      },
+      {
+        "slug": "ultimate-gym-shaker-guide",
+        "file": "ultimate-gym-shaker-guide"
+      },
+      {
+        "slug": "ultimate-gym-supplement-effects",
+        "file": "ultimate-gym-supplement-effects"
+      },
+      {
+        "slug": "ultimate-gym-supplements-guide",
+        "file": "ultimate-gym-supplements-guide"
+      }
+    ],
+    "physique": [
+      {
+        "slug": "ultimate-gym-body-size-guide",
+        "file": "ultimate-gym-body-size-guide"
+      },
+      {
+        "slug": "ultimate-gym-bulk-and-cut-guide",
+        "file": "ultimate-gym-bulk-and-cut-guide"
+      },
+      {
+        "slug": "ultimate-gym-bulking-calories",
+        "file": "ultimate-gym-bulking-calories"
+      },
+      {
+        "slug": "ultimate-gym-cutting-calories",
+        "file": "ultimate-gym-cutting-calories"
+      },
+      {
+        "slug": "ultimate-gym-muscle-growth-guide",
+        "file": "ultimate-gym-muscle-growth-guide"
+      }
+    ],
+    "strength": [
+      {
+        "slug": "ultimate-gym-how-to-get-stronger-fast",
+        "file": "ultimate-gym-how-to-get-stronger-fast"
+      },
+      {
+        "slug": "ultimate-gym-leg-strength-guide",
+        "file": "ultimate-gym-leg-strength-guide"
+      },
+      {
+        "slug": "ultimate-gym-strength-guide",
+        "file": "ultimate-gym-strength-guide"
+      },
+      {
+        "slug": "ultimate-gym-strength-progression",
+        "file": "ultimate-gym-strength-progression"
+      },
+      {
+        "slug": "ultimate-gym-weight-guide",
+        "file": "ultimate-gym-weight-guide"
+      }
+    ],
+    "upgrades": [
+      {
+        "slug": "ultimate-gym-best-upgrades",
+        "file": "ultimate-gym-best-upgrades"
+      },
+      {
+        "slug": "ultimate-gym-progression-unlocks",
+        "file": "ultimate-gym-progression-unlocks"
+      },
+      {
+        "slug": "ultimate-gym-training-zones",
+        "file": "ultimate-gym-training-zones"
+      },
+      {
+        "slug": "ultimate-gym-upgrade-order",
+        "file": "ultimate-gym-upgrade-order"
+      },
+      {
+        "slug": "ultimate-gym-zone-unlocks",
+        "file": "ultimate-gym-zone-unlocks"
+      }
+    ]
+  },
+  "es": {
+    "codes": [
+      {
+        "slug": "ultimate-gym-codes",
+        "file": "ultimate-gym-codes"
+      }
+    ],
+    "exercises": [
+      {
+        "slug": "ultimate-gym-best-exercises",
+        "file": "ultimate-gym-best-exercises"
+      },
+      {
+        "slug": "ultimate-gym-best-machines",
+        "file": "ultimate-gym-best-machines"
+      },
+      {
+        "slug": "ultimate-gym-calisthenics-guide",
+        "file": "ultimate-gym-calisthenics-guide"
+      },
+      {
+        "slug": "ultimate-gym-exercise-guide",
+        "file": "ultimate-gym-exercise-guide"
+      },
+      {
+        "slug": "ultimate-gym-muscle-exercises",
+        "file": "ultimate-gym-muscle-exercises"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "ultimate-gym-beginner-guide",
+        "file": "ultimate-gym-beginner-guide"
+      },
+      {
+        "slug": "ultimate-gym-controls",
+        "file": "ultimate-gym-controls"
+      },
+      {
+        "slug": "ultimate-gym-how-to-play",
+        "file": "ultimate-gym-how-to-play"
+      },
+      {
+        "slug": "ultimate-gym-progression-guide",
+        "file": "ultimate-gym-progression-guide"
+      },
+      {
+        "slug": "ultimate-gym-starting-guide",
+        "file": "ultimate-gym-starting-guide"
+      },
+      {
+        "slug": "ultimate-gym-tips-and-tricks",
+        "file": "ultimate-gym-tips-and-tricks"
+      }
+    ],
+    "money": [
+      {
+        "slug": "ultimate-gym-best-money-method",
+        "file": "ultimate-gym-best-money-method"
+      },
+      {
+        "slug": "ultimate-gym-cash-spending-guide",
+        "file": "ultimate-gym-cash-spending-guide"
+      },
+      {
+        "slug": "ultimate-gym-early-game-cash-route",
+        "file": "ultimate-gym-early-game-cash-route"
+      },
+      {
+        "slug": "ultimate-gym-money-making-guide",
+        "file": "ultimate-gym-money-making-guide"
+      }
+    ],
+    "nutrition": [
+      {
+        "slug": "ultimate-gym-food-guide",
+        "file": "ultimate-gym-food-guide"
+      },
+      {
+        "slug": "ultimate-gym-food-prices",
+        "file": "ultimate-gym-food-prices"
+      },
+      {
+        "slug": "ultimate-gym-shaker-guide",
+        "file": "ultimate-gym-shaker-guide"
+      },
+      {
+        "slug": "ultimate-gym-supplement-effects",
+        "file": "ultimate-gym-supplement-effects"
+      },
+      {
+        "slug": "ultimate-gym-supplements-guide",
+        "file": "ultimate-gym-supplements-guide"
+      }
+    ],
+    "physique": [
+      {
+        "slug": "ultimate-gym-body-size-guide",
+        "file": "ultimate-gym-body-size-guide"
+      },
+      {
+        "slug": "ultimate-gym-bulk-and-cut-guide",
+        "file": "ultimate-gym-bulk-and-cut-guide"
+      },
+      {
+        "slug": "ultimate-gym-bulking-calories",
+        "file": "ultimate-gym-bulking-calories"
+      },
+      {
+        "slug": "ultimate-gym-cutting-calories",
+        "file": "ultimate-gym-cutting-calories"
+      },
+      {
+        "slug": "ultimate-gym-muscle-growth-guide",
+        "file": "ultimate-gym-muscle-growth-guide"
+      }
+    ],
+    "strength": [
+      {
+        "slug": "ultimate-gym-how-to-get-stronger-fast",
+        "file": "ultimate-gym-how-to-get-stronger-fast"
+      },
+      {
+        "slug": "ultimate-gym-leg-strength-guide",
+        "file": "ultimate-gym-leg-strength-guide"
+      },
+      {
+        "slug": "ultimate-gym-strength-guide",
+        "file": "ultimate-gym-strength-guide"
+      },
+      {
+        "slug": "ultimate-gym-strength-progression",
+        "file": "ultimate-gym-strength-progression"
+      },
+      {
+        "slug": "ultimate-gym-weight-guide",
+        "file": "ultimate-gym-weight-guide"
+      }
+    ],
+    "upgrades": [
+      {
+        "slug": "ultimate-gym-best-upgrades",
+        "file": "ultimate-gym-best-upgrades"
+      },
+      {
+        "slug": "ultimate-gym-progression-unlocks",
+        "file": "ultimate-gym-progression-unlocks"
+      },
+      {
+        "slug": "ultimate-gym-training-zones",
+        "file": "ultimate-gym-training-zones"
+      },
+      {
+        "slug": "ultimate-gym-upgrade-order",
+        "file": "ultimate-gym-upgrade-order"
+      },
+      {
+        "slug": "ultimate-gym-zone-unlocks",
+        "file": "ultimate-gym-zone-unlocks"
+      }
+    ]
+  },
+  "pt": {
+    "codes": [
+      {
+        "slug": "ultimate-gym-codes",
+        "file": "ultimate-gym-codes"
+      }
+    ],
+    "exercises": [
+      {
+        "slug": "ultimate-gym-best-exercises",
+        "file": "ultimate-gym-best-exercises"
+      },
+      {
+        "slug": "ultimate-gym-best-machines",
+        "file": "ultimate-gym-best-machines"
+      },
+      {
+        "slug": "ultimate-gym-calisthenics-guide",
+        "file": "ultimate-gym-calisthenics-guide"
+      },
+      {
+        "slug": "ultimate-gym-exercise-guide",
+        "file": "ultimate-gym-exercise-guide"
+      },
+      {
+        "slug": "ultimate-gym-muscle-exercises",
+        "file": "ultimate-gym-muscle-exercises"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "ultimate-gym-beginner-guide",
+        "file": "ultimate-gym-beginner-guide"
+      },
+      {
+        "slug": "ultimate-gym-controls",
+        "file": "ultimate-gym-controls"
+      },
+      {
+        "slug": "ultimate-gym-how-to-play",
+        "file": "ultimate-gym-how-to-play"
+      },
+      {
+        "slug": "ultimate-gym-progression-guide",
+        "file": "ultimate-gym-progression-guide"
+      },
+      {
+        "slug": "ultimate-gym-starting-guide",
+        "file": "ultimate-gym-starting-guide"
+      },
+      {
+        "slug": "ultimate-gym-tips-and-tricks",
+        "file": "ultimate-gym-tips-and-tricks"
+      }
+    ],
+    "money": [
+      {
+        "slug": "ultimate-gym-best-money-method",
+        "file": "ultimate-gym-best-money-method"
+      },
+      {
+        "slug": "ultimate-gym-cash-spending-guide",
+        "file": "ultimate-gym-cash-spending-guide"
+      },
+      {
+        "slug": "ultimate-gym-early-game-cash-route",
+        "file": "ultimate-gym-early-game-cash-route"
+      },
+      {
+        "slug": "ultimate-gym-money-making-guide",
+        "file": "ultimate-gym-money-making-guide"
+      }
+    ],
+    "nutrition": [
+      {
+        "slug": "ultimate-gym-food-guide",
+        "file": "ultimate-gym-food-guide"
+      },
+      {
+        "slug": "ultimate-gym-food-prices",
+        "file": "ultimate-gym-food-prices"
+      },
+      {
+        "slug": "ultimate-gym-shaker-guide",
+        "file": "ultimate-gym-shaker-guide"
+      },
+      {
+        "slug": "ultimate-gym-supplement-effects",
+        "file": "ultimate-gym-supplement-effects"
+      },
+      {
+        "slug": "ultimate-gym-supplements-guide",
+        "file": "ultimate-gym-supplements-guide"
+      }
+    ],
+    "physique": [
+      {
+        "slug": "ultimate-gym-body-size-guide",
+        "file": "ultimate-gym-body-size-guide"
+      },
+      {
+        "slug": "ultimate-gym-bulk-and-cut-guide",
+        "file": "ultimate-gym-bulk-and-cut-guide"
+      },
+      {
+        "slug": "ultimate-gym-bulking-calories",
+        "file": "ultimate-gym-bulking-calories"
+      },
+      {
+        "slug": "ultimate-gym-cutting-calories",
+        "file": "ultimate-gym-cutting-calories"
+      },
+      {
+        "slug": "ultimate-gym-muscle-growth-guide",
+        "file": "ultimate-gym-muscle-growth-guide"
+      }
+    ],
+    "strength": [
+      {
+        "slug": "ultimate-gym-how-to-get-stronger-fast",
+        "file": "ultimate-gym-how-to-get-stronger-fast"
+      },
+      {
+        "slug": "ultimate-gym-leg-strength-guide",
+        "file": "ultimate-gym-leg-strength-guide"
+      },
+      {
+        "slug": "ultimate-gym-strength-guide",
+        "file": "ultimate-gym-strength-guide"
+      },
+      {
+        "slug": "ultimate-gym-strength-progression",
+        "file": "ultimate-gym-strength-progression"
+      },
+      {
+        "slug": "ultimate-gym-weight-guide",
+        "file": "ultimate-gym-weight-guide"
+      }
+    ],
+    "upgrades": [
+      {
+        "slug": "ultimate-gym-best-upgrades",
+        "file": "ultimate-gym-best-upgrades"
+      },
+      {
+        "slug": "ultimate-gym-progression-unlocks",
+        "file": "ultimate-gym-progression-unlocks"
+      },
+      {
+        "slug": "ultimate-gym-training-zones",
+        "file": "ultimate-gym-training-zones"
+      },
+      {
+        "slug": "ultimate-gym-upgrade-order",
+        "file": "ultimate-gym-upgrade-order"
+      },
+      {
+        "slug": "ultimate-gym-zone-unlocks",
+        "file": "ultimate-gym-zone-unlocks"
+      }
+    ]
+  },
+  "tr": {
+    "codes": [
+      {
+        "slug": "ultimate-gym-codes",
+        "file": "ultimate-gym-codes"
+      }
+    ],
+    "exercises": [
+      {
+        "slug": "ultimate-gym-best-exercises",
+        "file": "ultimate-gym-best-exercises"
+      },
+      {
+        "slug": "ultimate-gym-best-machines",
+        "file": "ultimate-gym-best-machines"
+      },
+      {
+        "slug": "ultimate-gym-calisthenics-guide",
+        "file": "ultimate-gym-calisthenics-guide"
+      },
+      {
+        "slug": "ultimate-gym-exercise-guide",
+        "file": "ultimate-gym-exercise-guide"
+      },
+      {
+        "slug": "ultimate-gym-muscle-exercises",
+        "file": "ultimate-gym-muscle-exercises"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "ultimate-gym-beginner-guide",
+        "file": "ultimate-gym-beginner-guide"
+      },
+      {
+        "slug": "ultimate-gym-controls",
+        "file": "ultimate-gym-controls"
+      },
+      {
+        "slug": "ultimate-gym-how-to-play",
+        "file": "ultimate-gym-how-to-play"
+      },
+      {
+        "slug": "ultimate-gym-progression-guide",
+        "file": "ultimate-gym-progression-guide"
+      },
+      {
+        "slug": "ultimate-gym-starting-guide",
+        "file": "ultimate-gym-starting-guide"
+      },
+      {
+        "slug": "ultimate-gym-tips-and-tricks",
+        "file": "ultimate-gym-tips-and-tricks"
+      }
+    ],
+    "money": [
+      {
+        "slug": "ultimate-gym-best-money-method",
+        "file": "ultimate-gym-best-money-method"
+      },
+      {
+        "slug": "ultimate-gym-cash-spending-guide",
+        "file": "ultimate-gym-cash-spending-guide"
+      },
+      {
+        "slug": "ultimate-gym-early-game-cash-route",
+        "file": "ultimate-gym-early-game-cash-route"
+      },
+      {
+        "slug": "ultimate-gym-money-making-guide",
+        "file": "ultimate-gym-money-making-guide"
+      }
+    ],
+    "nutrition": [
+      {
+        "slug": "ultimate-gym-food-guide",
+        "file": "ultimate-gym-food-guide"
+      },
+      {
+        "slug": "ultimate-gym-food-prices",
+        "file": "ultimate-gym-food-prices"
+      },
+      {
+        "slug": "ultimate-gym-shaker-guide",
+        "file": "ultimate-gym-shaker-guide"
+      },
+      {
+        "slug": "ultimate-gym-supplement-effects",
+        "file": "ultimate-gym-supplement-effects"
+      },
+      {
+        "slug": "ultimate-gym-supplements-guide",
+        "file": "ultimate-gym-supplements-guide"
+      }
+    ],
+    "physique": [
+      {
+        "slug": "ultimate-gym-body-size-guide",
+        "file": "ultimate-gym-body-size-guide"
+      },
+      {
+        "slug": "ultimate-gym-bulk-and-cut-guide",
+        "file": "ultimate-gym-bulk-and-cut-guide"
+      },
+      {
+        "slug": "ultimate-gym-bulking-calories",
+        "file": "ultimate-gym-bulking-calories"
+      },
+      {
+        "slug": "ultimate-gym-cutting-calories",
+        "file": "ultimate-gym-cutting-calories"
+      },
+      {
+        "slug": "ultimate-gym-muscle-growth-guide",
+        "file": "ultimate-gym-muscle-growth-guide"
+      }
+    ],
+    "strength": [
+      {
+        "slug": "ultimate-gym-how-to-get-stronger-fast",
+        "file": "ultimate-gym-how-to-get-stronger-fast"
+      },
+      {
+        "slug": "ultimate-gym-leg-strength-guide",
+        "file": "ultimate-gym-leg-strength-guide"
+      },
+      {
+        "slug": "ultimate-gym-strength-guide",
+        "file": "ultimate-gym-strength-guide"
+      },
+      {
+        "slug": "ultimate-gym-strength-progression",
+        "file": "ultimate-gym-strength-progression"
+      },
+      {
+        "slug": "ultimate-gym-weight-guide",
+        "file": "ultimate-gym-weight-guide"
+      }
+    ],
+    "upgrades": [
+      {
+        "slug": "ultimate-gym-best-upgrades",
+        "file": "ultimate-gym-best-upgrades"
+      },
+      {
+        "slug": "ultimate-gym-progression-unlocks",
+        "file": "ultimate-gym-progression-unlocks"
+      },
+      {
+        "slug": "ultimate-gym-training-zones",
+        "file": "ultimate-gym-training-zones"
+      },
+      {
+        "slug": "ultimate-gym-upgrade-order",
+        "file": "ultimate-gym-upgrade-order"
+      },
+      {
+        "slug": "ultimate-gym-zone-unlocks",
+        "file": "ultimate-gym-zone-unlocks"
+      }
+    ]
+  }
+}

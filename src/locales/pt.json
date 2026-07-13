@@ -1,1 +1,12 @@
-{}
+{
+  "nav": {
+    "codes": "Códigos",
+    "guide": "Guia",
+    "exercises": "Exercícios",
+    "strength": "Força",
+    "money": "Dinheiro",
+    "nutrition": "Nutrição",
+    "physique": "Físico",
+    "upgrades": "Melhorias"
+  }
+}

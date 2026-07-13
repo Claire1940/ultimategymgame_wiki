@@ -1,1 +1,12 @@
-{}
+{
+  "nav": {
+    "codes": "Kodlar",
+    "guide": "Rehber",
+    "exercises": "Egzersizler",
+    "strength": "Güç",
+    "money": "Para",
+    "nutrition": "Beslenme",
+    "physique": "Fizik",
+    "upgrades": "Yükseltmeler"
+  }
+}

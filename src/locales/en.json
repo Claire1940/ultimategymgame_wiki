@@ -10,7 +10,16 @@
       "twitterDescription": "Ultimate Gym Game Wiki covers codes, exercises, muscle growth, training zones, food, supplements, ranks, and progression tips for the Roblox game."
     }
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "exercises": "Exercises",
+    "strength": "Strength",
+    "money": "Money",
+    "nutrition": "Nutrition",
+    "physique": "Physique",
+    "upgrades": "Upgrades"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -179,28 +188,41 @@
         {
           "tier": "S",
           "label": "Core Progression",
-          "exercises": ["Bench Press", "Squat", "Deadlift"],
+          "exercises": [
+            "Bench Press",
+            "Squat",
+            "Deadlift"
+          ],
           "bestFor": "Strength progression, personal records and major muscle groups",
           "summary": "The three headline compound lifts provide clear weight progression and are strong choices for players building an all-around training base."
         },
         {
           "tier": "A",
           "label": "Flexible Muscle Training",
-          "exercises": ["Cable Machines", "Dumbbells"],
+          "exercises": [
+            "Cable Machines",
+            "Dumbbells"
+          ],
           "bestFor": "Hypertrophy-focused routines and accessory training",
           "summary": "Cable and dumbbell exercises offer flexible movement choices and help players train muscles that receive less direct attention from the main compound lifts."
         },
         {
           "tier": "A",
           "label": "Bodyweight Progression",
-          "exercises": ["Pull-Ups", "Dips"],
+          "exercises": [
+            "Pull-Ups",
+            "Dips"
+          ],
           "bestFor": "Upper-body strength and calisthenics preparation",
           "summary": "Pull-ups and dips are useful bodyweight exercises that support upper-body development and prepare players for the advanced calisthenics path."
         },
         {
           "tier": "B",
           "label": "Advanced Calisthenics",
-          "exercises": ["Calisthenics Progression", "Maltese"],
+          "exercises": [
+            "Calisthenics Progression",
+            "Maltese"
+          ],
           "bestFor": "Long-term bodyweight mastery and endgame goals",
           "summary": "The calisthenics route culminates in the legendary Maltese, making it a valuable long-term challenge after establishing basic strength and training resources."
         }
@@ -216,7 +238,11 @@
           "primaryGoal": "Lift heavier weights",
           "trainingFocus": "Maximum strength and personal-record progression",
           "recommendedFor": "Players who want to improve their best lifts and climb strength-based records",
-          "exerciseExamples": ["Bench Press", "Squat", "Deadlift"],
+          "exerciseExamples": [
+            "Bench Press",
+            "Squat",
+            "Deadlift"
+          ],
           "progressSignal": "Higher successful lifting weight and improved personal records"
         },
         {
@@ -224,7 +250,12 @@
           "primaryGoal": "Increase muscle growth",
           "trainingFocus": "Building visible muscle through consistent exercise work",
           "recommendedFor": "Players focused on growing their character and creating a balanced physique",
-          "exerciseExamples": ["Cable Machines", "Dumbbells", "Bench Press", "Dips"],
+          "exerciseExamples": [
+            "Cable Machines",
+            "Dumbbells",
+            "Bench Press",
+            "Dips"
+          ],
           "progressSignal": "Continued muscle development across trained body areas"
         },
         {
@@ -232,7 +263,12 @@
           "primaryGoal": "Train for longer",
           "trainingFocus": "Sustained exercise performance and stamina",
           "recommendedFor": "Players who want longer sessions and improved repeated-effort performance",
-          "exerciseExamples": ["Pull-Ups", "Dips", "Dumbbells", "Calisthenics Exercises"],
+          "exerciseExamples": [
+            "Pull-Ups",
+            "Dips",
+            "Dumbbells",
+            "Calisthenics Exercises"
+          ],
           "progressSignal": "More sustained training before performance drops"
         }
       ]
@@ -519,125 +555,165 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Ultimate Gym Game Guides",
-      "description": "Complete training guides from beginner basics to advanced strength, hypertrophy and endurance strategies.",
-      "metaTitle": "Ultimate Gym Game Guides - Beginner to Advanced Training",
-      "metaDescription": "Complete Ultimate Gym Game guides covering beginner tips, training zones, exercise tier lists, bulking, cutting and expert tactics for mastering the Roblox bodybuilding simulator.",
-      "categoryLabel": "TRAINING GUIDES",
+    "codes": {
+      "title": "Ultimate Gym Game Codes",
+      "description": "Latest working Ultimate Gym Game codes for free cash, boosts, and exclusive items. Updated regularly with verified redeem codes.",
+      "metaTitle": "Ultimate Gym Game Codes - Free Cash & Boosts",
+      "metaDescription": "Get free cash, boosts, and exclusive items with active Ultimate Gym Game codes. Updated regularly with verified working redeem codes for Roblox.",
+      "categoryLabel": "REDEEM CODES",
+      "whatIs": "What are Codes?",
+      "whatIsDescription": "Codes are free redeem strings released by the Ultimate Gym Game developers that grant cash, training boosts, and exclusive items. Enter them in-game to speed up early progression and stock up on resources.",
+      "why": "Why redeem codes?",
+      "whySteps": {
+        "step1Title": "Free Cash & Boosts",
+        "step1Description": "Redeem codes grant instant cash and training boosts without grinding",
+        "step2Title": "Faster Early Game",
+        "step2Description": "Use free resources to buy food, supplements, and equipment sooner",
+        "step3Title": "Stay Updated",
+        "step3Description": "New codes drop around updates and events, so check back regularly"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Codes"
+    },
+    "guide": {
+      "title": "Ultimate Gym Game Guide",
+      "description": "Complete Ultimate Gym Game guides from beginner basics and controls to progression, tips, and advanced training strategies.",
+      "metaTitle": "Ultimate Gym Game Guide - Beginner Tips & Progression",
+      "metaDescription": "Complete Ultimate Gym Game guides covering beginner tips, controls, progression paths, and advanced strategies for mastering the Roblox bodybuilding simulator.",
+      "categoryLabel": "GAME GUIDES",
       "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering training mechanics, progression strategies and exercise selection. Learn everything from first steps to advanced lifting techniques.",
+      "whatIsDescription": "Guides cover the core mechanics of Ultimate Gym Game, from your first training session to advanced progression. Learn controls, training zones, money management, and the order to unlock new content.",
       "why": "Why read guides?",
       "whySteps": {
         "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand training zones, muscle growth and progression systems",
+        "step1Description": "Understand controls, training zones, muscle growth, and progression systems",
         "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to build strength, size and stamina",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced routines for bulking, cutting and personal records"
+        "step2Description": "Follow proven paths to build strength, size, and stamina efficiently",
+        "step3Title": "Avoid Beginner Mistakes",
+        "step3Description": "Spend cash wisely and pick the right exercises for your goal"
       },
       "featured": "Featured & Essential",
       "all": "All Guides"
     },
-    "crafting": {
-      "title": "Ultimate Gym Game Training",
-      "description": "Master the Strength, Hypertrophy and Endurance training zones with exercise routines and progression strategies.",
-      "metaTitle": "Ultimate Gym Game Training - Zones, Routines & Progression",
-      "metaDescription": "Master Ultimate Gym Game training zones. Learn Strength, Hypertrophy and Endurance routines, weight progression and strategies for setting personal records.",
-      "categoryLabel": "TRAINING SYSTEM",
-      "whatIs": "What is Training?",
-      "whatIsDescription": "The training system splits the gym into Strength, Hypertrophy and Endurance zones. Each zone improves a different progression goal and pairs with specific exercises and weight ranges.",
-      "why": "Why plan training?",
+    "exercises": {
+      "title": "Ultimate Gym Game Exercises",
+      "description": "Every Ultimate Gym Game exercise and machine explained, including Bench Press, Squat, Deadlift, calisthenics, and muscle activation tips.",
+      "metaTitle": "Ultimate Gym Game Exercises - Best Moves & Machines",
+      "metaDescription": "Browse every Ultimate Gym Game exercise and machine. Learn the best moves for chest, back, legs, and arms, plus calisthenics and muscle activation tips.",
+      "categoryLabel": "EXERCISES & MACHINES",
+      "whatIs": "What are Exercises?",
+      "whatIsDescription": "Exercises are the individual lifts and movements in Ultimate Gym Game, covering Bench Press, Squat, Deadlift, Cable Machines, and calisthenics. Each targets specific muscles and fits different training zones.",
+      "why": "Why study exercises?",
       "whySteps": {
-        "step1Title": "Choose the Right Zone",
-        "step1Description": "Match your training zone to heavier lifts, muscle growth or stamina",
-        "step2Title": "Progress Weight Safely",
-        "step2Description": "Increase load gradually and track personal records",
-        "step3Title": "Balance Your Routine",
-        "step3Description": "Combine compound lifts, machines and bodyweight work"
+        "step1Title": "Pick the Right Moves",
+        "step1Description": "Match exercises to your training zone and target muscle groups",
+        "step2Title": "Master Form & Machines",
+        "step2Description": "Learn how each machine and lift works for safe, efficient training",
+        "step3Title": "Build Balanced Routines",
+        "step3Description": "Combine compound lifts, machines, and calisthenics for full-body growth"
       },
       "featured": "Featured & Essential",
-      "all": "All Training Guides"
+      "all": "All Exercises"
     },
-    "items": {
-      "title": "Ultimate Gym Game Items",
-      "description": "Detailed guides covering food, supplements, shaker buffs and gym equipment with usage tips and spending priorities.",
-      "metaTitle": "Ultimate Gym Game Items - Food, Supplements & Equipment",
-      "metaDescription": "Complete item database for Ultimate Gym Game including food, supplements, shaker buffs and training equipment. Learn how to spend cash efficiently.",
-      "categoryLabel": "ITEMS & CONSUMABLES",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for food, supplements, shaker buffs and equipment. Learn spending priorities, buff timing and how to combine effects efficiently.",
-      "why": "Why check item guides?",
+    "strength": {
+      "title": "Ultimate Gym Game Strength",
+      "description": "Ultimate Gym Game strength training guides covering weight progression, leg strength, personal records, and how to get stronger fast.",
+      "metaTitle": "Ultimate Gym Game Strength - Get Stronger Fast",
+      "metaDescription": "Master Ultimate Gym Game strength training. Learn weight progression, leg strength, personal records, and the fastest ways to get stronger in the Roblox gym simulator.",
+      "categoryLabel": "STRENGTH TRAINING",
+      "whatIs": "What is Strength Training?",
+      "whatIsDescription": "Strength training in Ultimate Gym Game focuses on the Strength zone, lifting heavier weights to increase your strength stat and set personal records. Progression comes from gradual weight increases and consistent lifting.",
+      "why": "Why train strength?",
       "whySteps": {
-        "step1Title": "Spend Cash Efficiently",
-        "step1Description": "Prioritize purchases that support your active training goal",
-        "step2Title": "Time Your Buffs",
-        "step2Description": "Activate food and supplements before focused lifting sessions",
-        "step3Title": "Mix Shaker Effects",
-        "step3Description": "Combine compatible buffs around one clear training goal"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Items"
-    },
-    "biomes": {
-      "title": "Ultimate Gym Game Training Zones",
-      "description": "Explore the Strength, Hypertrophy and Endurance training zones, their goals and the best exercises for each.",
-      "metaTitle": "Ultimate Gym Game Training Zones - Strength, Hypertrophy & Endurance",
-      "metaDescription": "Explore Ultimate Gym Game training zones. Compare Strength, Hypertrophy and Endurance, find the right exercises and plan your workout routine.",
-      "categoryLabel": "TRAINING ZONES",
-      "whatIs": "What are Training Zones?",
-      "whatIsDescription": "Guides to the three training zones, their progression goals and recommended exercises. Learn what each zone improves and how to choose the right one.",
-      "why": "Why compare zones?",
-      "whySteps": {
-        "step1Title": "Match Your Goal",
-        "step1Description": "Pick the zone that fits heavier lifts, muscle growth or stamina",
-        "step2Title": "Choose Exercises",
-        "step2Description": "Select movements that match your selected training zone",
-        "step3Title": "Track Progress",
-        "step3Description": "Watch for the progress signals unique to each zone"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Training Zones"
-    },
-    "building": {
-      "title": "Ultimate Gym Game Progression",
-      "description": "Master rank progression, personal records, leaderboards and body changes from bulking and cutting.",
-      "metaTitle": "Ultimate Gym Game Progression - Ranks, Records & Leaderboards",
-      "metaDescription": "Master Ultimate Gym Game progression with rank titles from Beginner to Grand Master, personal records, global leaderboards and body progression strategies.",
-      "categoryLabel": "PROGRESSION & RANKS",
-      "whatIs": "What is Progression?",
-      "whatIsDescription": "Guides to rank progression, personal records, leaderboards and body changes. Learn how to climb from Beginner to Grand Master and measure lasting improvement.",
-      "why": "Why track progression?",
-      "whySteps": {
-        "step1Title": "Climb the Ranks",
-        "step1Description": "Progress through overhead titles from Beginner to Grand Master",
+        "step1Title": "Lift Heavier Over Time",
+        "step1Description": "Progress weight gradually to build raw strength safely",
         "step2Title": "Set Personal Records",
-        "step2Description": "Track lifting improvements across multiple exercises",
-        "step3Title": "Compete Globally",
-        "step3Description": "Compare your performance on the global leaderboards"
+        "step2Description": "Track and beat your best lifts across major compound movements",
+        "step3Title": "Build Leg & Full-Body Power",
+        "step3Description": "Develop balanced strength from squats, deadlifts, and presses"
       },
       "featured": "Featured & Essential",
-      "all": "All Progression Guides"
+      "all": "All Strength Guides"
     },
-    "support": {
-      "title": "Ultimate Gym Game Updates",
-      "description": "Patch notes, balance changes, new exercises and platform support updates for Ultimate Gym Game.",
-      "metaTitle": "Ultimate Gym Game Updates - Patch Notes & Changes",
-      "metaDescription": "Get the latest Ultimate Gym Game updates including new exercises, balance changes, bug fixes, server restarts and platform support announcements.",
-      "categoryLabel": "UPDATES & NEWS",
-      "whatIs": "What are Updates?",
-      "whatIsDescription": "Guides covering patch notes, balance changes, new exercises, bug fixes and platform support. Stay current with the live build and upcoming fixes.",
-      "why": "Why follow updates?",
+    "money": {
+      "title": "Ultimate Gym Game Money",
+      "description": "Ultimate Gym Game money making guides covering the best cash methods, early game routes, and smart spending priorities for food and equipment.",
+      "metaTitle": "Ultimate Gym Game Money - Best Cash Methods",
+      "metaDescription": "Learn the best Ultimate Gym Game money making methods, early game cash routes, and smart spending priorities for food, supplements, and equipment.",
+      "categoryLabel": "MONEY & CASH",
+      "whatIs": "What is Money?",
+      "whatIsDescription": "Money (cash) is the core currency in Ultimate Gym Game, earned through training and used to buy food, supplements, shaker items, and equipment upgrades. Efficient cash routes keep your progression steady.",
+      "why": "Why manage money?",
       "whySteps": {
-        "step1Title": "Track New Exercises",
-        "step1Description": "Learn about newly added movements and equipment",
-        "step2Title": "Adapt to Changes",
-        "step2Description": "Adjust your routine after balance and system updates",
-        "step3Title": "Plan Around Restarts",
-        "step3Description": "Time personal-record attempts around server restarts"
+        "step1Title": "Earn Faster",
+        "step1Description": "Use the best money methods to maximize cash per session",
+        "step2Title": "Spend Smart",
+        "step2Description": "Prioritize purchases that match your current training goal",
+        "step3Title": "Plan Early Game Cash",
+        "step3Description": "Follow a clear early route to avoid wasting starter cash"
       },
       "featured": "Featured & Essential",
-      "all": "All Update Articles"
+      "all": "All Money Guides"
+    },
+    "nutrition": {
+      "title": "Ultimate Gym Game Nutrition",
+      "description": "Ultimate Gym Game nutrition guides covering food prices, supplement effects, shaker buffs, and how to fuel muscle growth and recovery.",
+      "metaTitle": "Ultimate Gym Game Nutrition - Food & Supplements",
+      "metaDescription": "Master Ultimate Gym Game nutrition. Learn food prices, supplement effects, shaker buff combinations, and how to fuel muscle growth and recovery.",
+      "categoryLabel": "FOOD & SUPPLEMENTS",
+      "whatIs": "What is Nutrition?",
+      "whatIsDescription": "Nutrition in Ultimate Gym Game covers food, supplements, and shaker buffs that boost training, recovery, and muscle growth. Each item has a price, an effect, and a buff duration to plan around.",
+      "why": "Why track nutrition?",
+      "whySteps": {
+        "step1Title": "Fuel Your Training",
+        "step1Description": "Eat the right food to power through heavy lifting sessions",
+        "step2Title": "Stack Supplement Effects",
+        "step2Description": "Combine supplements and shaker buffs for stronger results",
+        "step3Title": "Spend Cash Efficiently",
+        "step3Description": "Compare food prices and buff value before buying"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Nutrition Guides"
+    },
+    "physique": {
+      "title": "Ultimate Gym Game Physique",
+      "description": "Ultimate Gym Game physique guides covering muscle growth, body size, bulking and cutting calories, and how to shape your character's body.",
+      "metaTitle": "Ultimate Gym Game Physique - Bulk, Cut & Muscle Growth",
+      "metaDescription": "Master Ultimate Gym Game physique. Learn muscle growth, body size, bulking and cutting calories, and how to shape your character's body in the Roblox gym simulator.",
+      "categoryLabel": "PHYSIQUE & MUSCLE",
+      "whatIs": "What is Physique?",
+      "whatIsDescription": "Physique in Ultimate Gym Game is how your character's body changes through training and nutrition. Bulking adds muscle size with a calorie surplus, while cutting reduces fat with a deficit to reveal definition.",
+      "why": "Why plan physique?",
+      "whySteps": {
+        "step1Title": "Grow Muscle Size",
+        "step1Description": "Use a bulking calorie surplus to build mass in target muscle groups",
+        "step2Title": "Cut to Reveal Definition",
+        "step2Description": "Switch to a cutting deficit to reduce fat and show muscle shape",
+        "step3Title": "Control Body Size",
+        "step3Description": "Adjust calories to reach your target body size and proportions"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Physique Guides"
+    },
+    "upgrades": {
+      "title": "Ultimate Gym Game Upgrades",
+      "description": "Ultimate Gym Game upgrades guides covering the best upgrade order, training zones, zone unlocks, and progression unlocks for faster gains.",
+      "metaTitle": "Ultimate Gym Game Upgrades - Best Order & Zones",
+      "metaDescription": "Learn the best Ultimate Gym Game upgrade order, training zones, zone unlocks, and progression unlocks to maximize gains and unlock content faster.",
+      "categoryLabel": "UPGRADES & ZONES",
+      "whatIs": "What are Upgrades?",
+      "whatIsDescription": "Upgrades in Ultimate Gym Game are permanent improvements and zone unlocks that boost training efficiency and open new exercises. Choosing the right upgrade order accelerates long-term progression.",
+      "why": "Why plan upgrades?",
+      "whySteps": {
+        "step1Title": "Unlock Training Zones",
+        "step1Description": "Open new zones and exercises that match your progression stage",
+        "step2Title": "Pick the Best Order",
+        "step2Description": "Prioritize upgrades that multiply your training output",
+        "step3Title": "Unlock Progression Content",
+        "step3Description": "Access advanced zones and features as you grow stronger"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Upgrades Guides"
     }
   }
 }
