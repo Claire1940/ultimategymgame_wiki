@@ -1,4 +1,15 @@
 {
+  "seo": {
+    "home": {
+      "title": "Ultimate Gym Game Wiki - Códigos, Exercícios e Progressão",
+      "description": "Ultimate Gym Game Wiki cobre códigos, exercícios, crescimento muscular, zonas de treino, comida, suplementos, ranks, recordes, atualizações e dicas de progressão para iniciantes.",
+      "keywords": "Ultimate Gym Game, Roblox, códigos, exercícios, músculos, treino, ranks, suplementos",
+      "ogTitle": "Ultimate Gym Game Wiki - Códigos, Exercícios e Progressão",
+      "ogDescription": "Ultimate Gym Game Wiki cobre códigos, exercícios, crescimento muscular, zonas de treino, comida, suplementos, ranks, recordes, updates e dicas de progressão para iniciantes.",
+      "twitterTitle": "Ultimate Gym Game Wiki - Códigos, Exercícios e Progressão",
+      "twitterDescription": "Ultimate Gym Game Wiki cobre códigos, exercícios, crescimento muscular, zonas de treino, comida, suplementos, ranks e dicas de progressão para o jogo do Roblox."
+    }
+  },
   "nav": {
     "codes": "Códigos",
     "guide": "Guia",
@@ -7,6 +18,702 @@
     "money": "Dinheiro",
     "nutrition": "Nutrição",
     "physique": "Físico",
-    "upgrades": "Melhorias"
+    "upgrades": "Upgrades"
+  },
+  "common": {
+    "home": "Início",
+    "more": "Mais",
+    "playNow": "Jogar no Roblox",
+    "switchLanguage": "Alterar Idioma",
+    "switchTheme": "Alterar Tema",
+    "lightMode": "Modo Claro",
+    "darkMode": "Modo Escuro",
+    "notFound": "Página Não Encontrada",
+    "notFoundDescription": "A página que você está procurando não existe.",
+    "backToHome": "Voltar para o Início",
+    "relatedArticles": "Artigos Relacionados",
+    "readMore": "Ler Mais",
+    "articlesComingSoon": "Artigos em breve"
+  },
+  "hero": {
+    "badge": "Simulador de Fisiculturismo Realista",
+    "title": "Ultimate Gym Game Wiki",
+    "description": "Levante peso, cresça, faça bulking ou cutting em mais de 31 exercícios, treine força, hipertrofia e resistência, gerencie suplementos, bata recordes pessoais e suba nos ranks.",
+    "getFreeCodesCTA": "Obter Códigos Grátis",
+    "playOnRobloxCTA": "Jogar no Roblox",
+    "stats": {
+      "stat1": {
+        "value": "31+",
+        "label": "Exercícios Disponíveis"
+      },
+      "stat2": {
+        "value": "3",
+        "label": "Zonas de Treino"
+      },
+      "stat3": {
+        "value": "Iniciante → Grão-Mestre",
+        "label": "Progressão de Rank"
+      },
+      "stat4": {
+        "value": "KG + LBS",
+        "label": "Unidades de Peso"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Jogabilidade de Ultimate Gym Game",
+    "description": "Treine força, hipertrofia e resistência em mais de 31 exercícios, gerencie alimentação e suplementos, bata recordes pessoais e suba de Iniciante a Grão-Mestre neste simulador de fisiculturismo do Roblox."
+  },
+  "tools": {
+    "title": "Ultimate Gym Game",
+    "titleHighlight": "Recursos",
+    "subtitle": "Tudo o que você precisa para códigos, exercícios, treino, nutrição e progressão no Ultimate Gym Game.",
+    "cards": [
+      {
+        "icon": "Presente",
+        "title": "Códigos do Ultimate Gym Game",
+        "description": "Status atual dos códigos, recompensas e canais oficiais de anúncios"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Guia de Iniciante do Ultimate Gym Game",
+        "description": "Primeiro ciclo de treino, dinheiro, alimentação e progressão inicial"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Tier List de Exercícios do Ultimate Gym Game",
+        "description": "Classifique cada exercício por velocidade de progressão e utilidade"
+      },
+      {
+        "icon": "Dumbbell",
+        "title": "Zonas de Treino do Ultimate Gym Game",
+        "description": "Compare rotinas de Força, Hipertrofia e Resistência"
+      },
+      {
+        "icon": "Scale",
+        "title": "Bulk e Cut no Ultimate Gym Game",
+        "description": "Decida quando ganhar volume e quando secar para definição"
+      },
+      {
+        "icon": "Apple",
+        "title": "Alimentos e Suplementos do Ultimate Gym Game",
+        "description": "Gaste dinheiro em comida, suplementos e buffs de coqueteleira"
+      },
+      {
+        "icon": "MoveVertical",
+        "title": "Calistenia no Ultimate Gym Game",
+        "description": "Progrida de Pull-Ups e Dips até o Maltese"
+      },
+      {
+        "icon": "Bell",
+        "title": "Atualizações do Ultimate Gym Game",
+        "description": "Últimos exercícios, mudanças de balanceamento e notas de atualização"
+      }
+    ]
+  },
+  "modules": {
+    "codes": {
+      "eyebrow": "Códigos e Recompensas",
+      "title": "Códigos do Ultimate Gym Game",
+      "intro": "O Ultimate Gym Game não possui atualmente nenhum código de recompensa público ou menu de resgate de códigos no jogo. Os jogadores podem seguir a comunidade do Roblox e o servidor do Discord do desenvolvedor para futuros códigos, recompensas de atualização e bônus de tempo limitado.",
+      "items": [
+        {
+          "status": "Atual",
+          "code": "Sem Códigos Ativos",
+          "reward": "Nenhuma recompensa de código pública está disponível",
+          "action": "Siga os canais oficiais da comunidade para anúncios de novas recompensas."
+        },
+        {
+          "status": "Resgate",
+          "code": "Menu de Códigos",
+          "reward": "Nenhum menu de resgate está listado atualmente",
+          "action": "Um futuro sistema de códigos normalmente apareceria através de um botão de Códigos, Presentes ou Configurações dentro do jogo."
+        },
+        {
+          "status": "Fonte Oficial",
+          "code": "Comunidade do Roblox",
+          "reward": "Atualizações do jogo e anúncios dos desenvolvedores",
+          "action": "Junte-se ao UGG - Gym Simulator no Roblox."
+        },
+        {
+          "status": "Fonte Oficial",
+          "code": "Servidor do Discord",
+          "reward": "Notícias de atualização, postagens da comunidade e possíveis recompensas de eventos",
+          "action": "Junte-se ao servidor oficial do Ultimate Gym Game no Discord."
+        }
+      ]
+    },
+    "beginnerGuide": {
+      "eyebrow": "Primeiros Passos",
+      "title": "Guia de Iniciantes do Ultimate Gym Game",
+      "intro": "O Ultimate Gym Game combina treino com pesos, crescimento muscular visível, recordes pessoais e nutrição. Novos jogadores devem selecionar uma meta de treino, usar pesos controláveis, progredir nos exercícios e reinvestir o dinheiro ganho em comida, suplementos e buffs de treino.",
+      "steps": [
+        {
+          "title": "Escolha uma Meta de Treino",
+          "description": "Decida se você quer priorizar levantamentos mais pesados, crescimento muscular ou sessões de treino mais longas. Use a zona de Força, Hipertrofia ou Resistência correspondente a essa meta.",
+          "tip": "Comece com uma meta em vez de mudar de zona após cada exercício."
+        },
+        {
+          "title": "Comece com Exercícios Principais",
+          "description": "Use exercícios acessíveis como Supino, Agachamento, Levantamento Terra, Máquinas de Cabo ou Halteres para começar a desenvolver seu personagem.",
+          "tip": "Levantamentos compostos são escolhas iniciais úteis porque cobrem os principais grupos musculares e apoiam a progressão de força."
+        },
+        {
+          "title": "Aumente o Peso Gradualmente",
+          "description": "Conclua sessões de treino bem-sucedidas antes de passar para pesos mais pesados. Use recordes pessoais para acompanhar o progresso em vez de selecionar a carga mais pesada imediatamente.",
+          "tip": "Um peso controlável proporciona um progresso mais constante do que falhar repetidamente em um levantamento."
+        },
+        {
+          "title": "Ganhe e Gaste Dinheiro",
+          "description": "Continue treinando para ganhar dinheiro e depois use-o em comida, suplementos e outros itens de progressão disponíveis dentro da academia.",
+          "tip": "Priorize itens que apoiem sua meta principal de treino antes de comprar extras opcionais."
+        },
+        {
+          "title": "Prepare Buffs de Coqueteleira",
+          "description": "Combine efeitos compatíveis de comida e suplementos através do sistema de coqueteleira e depois gerencie os itens resultantes através do seu inventário.",
+          "tip": "Use buffs de treino antes de uma sessão focada de levantamento para que seus efeitos ajudem em múltiplos exercícios."
+        },
+        {
+          "title": "Melhore seus Recordes e Rank",
+          "description": "Melhore seus recordes pessoais, avance pelos títulos de rank sobre a cabeça de Iniciante a Grão-Mestre e compare seu progresso nas tabelas de classificação globais.",
+          "tip": "Aumentos consistentes em vários exercícios criam um progresso mais confiável do que focar em apenas um levantamento."
+        }
+      ]
+    },
+    "exerciseTierList": {
+      "eyebrow": "Classificações de Exercícios",
+      "title": "Tier List de Exercícios do Ultimate Gym Game",
+      "intro": "O Ultimate Gym Game inclui mais de 31 exercícios, variando de grandes levantamentos com barra a máquinas, halteres e calistenia avançada. Esta classificação prioriza exercícios que oferecem uma progressão ampla, metas claras de recordes pessoais e opções úteis nas três zonas de treino.",
+      "tiers": [
+        {
+          "tier": "S",
+          "label": "Progressão Principal",
+          "exercises": [
+            "Supino",
+            "Agachamento",
+            "Levantamento Terra"
+          ],
+          "bestFor": "Progressão de força, recordes pessoais e principais grupos musculares",
+          "summary": "Os três principais levantamentos compostos oferecem uma progressão de peso clara e são escolhas sólidas para jogadores que estão construindo uma base de treino completa."
+        },
+        {
+          "tier": "A",
+          "label": "Treinamento Muscular Flexível",
+          "exercises": [
+            "Máquinas de Cabo",
+            "Halteres"
+          ],
+          "bestFor": "Rotinas focadas em hipertrofia e treino acessório",
+          "summary": "Exercícios com cabos e halteres oferecem opções de movimentos flexíveis e ajudam os jogadores a treinar músculos que recebem menos atenção direta dos principais levantamentos compostos."
+        },
+        {
+          "tier": "A",
+          "label": "Progressão com Peso Corporal",
+          "exercises": [
+            "Pull-ups",
+            "Dips"
+          ],
+          "bestFor": "Força da parte superior do corpo e preparação para calistenia",
+          "summary": "Pull-ups e dips são exercícios de peso corporal úteis que apoiam o desenvolvimento da parte superior do corpo e preparam os jogadores para o caminho da calistenia avançada."
+        },
+        {
+          "tier": "B",
+          "label": "Calistenia Avançada",
+          "exercises": [
+            "Progressão de Calistenia",
+            "Maltese"
+          ],
+          "bestFor": "Maestria de peso corporal a longo prazo e objetivos de endgame",
+          "summary": "A rota da calistenia culmina no lendário Maltese, tornando-se um desafio valioso a longo prazo após estabelecer força básica e recursos de treino."
+        }
+      ]
+    },
+    "trainingZones": {
+      "eyebrow": "Sistemas de Treino",
+      "title": "Zonas de Treino do Ultimate Gym Game",
+      "intro": "A academia é dividida em três zonas de treino projetadas em torno de diferentes objetivos de progressão. Força suporta levantamentos mais pesados, Hipertrofia foca no crescimento muscular e Resistência suporta um desempenho de treino mais longo.",
+      "zones": [
+        {
+          "zone": "Força",
+          "primaryGoal": "Levante pesos mais pesados",
+          "trainingFocus": "Força máxima e progressão de recordes pessoais",
+          "recommendedFor": "Jogadores que desejam melhorar seus melhores levantamentos e subir nos recordes baseados em força",
+          "exerciseExamples": [
+            "Bench Press",
+            "Squat",
+            "Deadlift"
+          ],
+          "progressSignal": "Maior peso de levantamento bem-sucedido e recordes pessoais melhorados"
+        },
+        {
+          "zone": "Hipertrofia",
+          "primaryGoal": "Aumentar o crescimento muscular",
+          "trainingFocus": "Construção de músculos visíveis através de trabalho de exercício consistente",
+          "recommendedFor": "Jogadores focados em crescer seu personagem e criar um físico equilibrado",
+          "exerciseExamples": [
+            "Máquinas de Cabo",
+            "Halteres",
+            "Bench Press",
+            "Dips"
+          ],
+          "progressSignal": "Desenvolvimento muscular contínuo em todas as áreas do corpo treinadas"
+        },
+        {
+          "zone": "Resistência",
+          "primaryGoal": "Treine por mais tempo",
+          "trainingFocus": "Desempenho sustentado em exercícios e resistência",
+          "recommendedFor": "Jogadores que desejam sessões mais longas e melhor desempenho em esforços repetidos",
+          "exerciseExamples": [
+            "Barra Fixa",
+            "Paralelas",
+            "Halteres",
+            "Exercícios de Calistenia"
+          ],
+          "progressSignal": "Treino mais sustentado antes da queda de desempenho"
+        }
+      ]
+    },
+    "bulkAndCutGuide": {
+      "eyebrow": "Progressão Corporal",
+      "title": "Guia de Bulk e Cut do Ultimate Gym Game",
+      "intro": "O Ultimate Gym Game permite que os jogadores ganhem massa muscular, aumentem a força e alternem entre bulking e cutting. Uma abordagem simples é estabelecer levantamentos confiáveis primeiro, passar um período focado em ganhar tamanho e fazer o cutting apenas após atingir um marco de físico ou força.",
+      "phases": [
+        {
+          "step": 1,
+          "phase": "Construa uma Base de Força",
+          "goal": "Crie um progresso mensurável antes de selecionar uma fase corporal de longo prazo.",
+          "actions": [
+            "Treine exercícios principais como Supino, Agachamento e Levantamento Terra.",
+            "Use a zona de treino de Força ou Hipertrofia em vez de mudar as rotinas constantemente.",
+            "Registre seus recordes pessoais atuais para que o progresso posterior seja fácil de comparar."
+          ],
+          "checkpoint": "Siga em frente após ter uma rotina estável e conseguir melhorar regularmente seus principais levantamentos."
+        },
+        {
+          "step": 2,
+          "phase": "Comece um Bulk",
+          "goal": "Priorize o tamanho muscular enquanto continua a aumentar o peso do treino.",
+          "actions": [
+            "Selecione a opção de bulk quando o tamanho visível e o crescimento muscular forem seus objetivos principais.",
+            "Passe a maioria das sessões na zona de Hipertrofia enquanto mantém levantamentos compostos na rotina.",
+            "Use comida, suplementos e buffs de coqueteleira durante sessões de treino mais longas."
+          ],
+          "checkpoint": "Continue até atingir sua meta de tamanho escolhida ou até que o progresso de força comece a desacelerar."
+        },
+        {
+          "step": 3,
+          "phase": "Mantenha a Força",
+          "goal": "Evite ganhar tamanho sem melhorar o desempenho útil na academia.",
+          "actions": [
+            "Mantenha o Supino, Agachamento e Levantamento Terra em rotação regular.",
+            "Verifique os recordes pessoais em vez de julgar o progresso apenas pelo tamanho do personagem.",
+            "Use a zona de Força periodicamente para testar pesos mais pesados."
+          ],
+          "checkpoint": "Um bulk produtivo deve melhorar tanto o crescimento muscular quanto pelo menos alguns recordes de levantamentos principais."
+        },
+        {
+          "step": 4,
+          "phase": "Comece um Cut",
+          "goal": "Reduza o tamanho corporal ou melhore a definição enquanto protege os ganhos de força anteriores.",
+          "actions": [
+            "Mude para o cutting após completar um marco claro de bulking.",
+            "Continue com exercícios focados em força em vez de substituir toda a rotina por trabalho de resistência.",
+            "Revise a aparência corporal e os recordes pessoais antes de decidir se deve fazer o bulk novamente."
+          ],
+          "checkpoint": "Termine o cut quando o físico desejado for alcançado e, em seguida, retorne a uma fase focada em força ou ganho de massa muscular."
+        }
+      ]
+    },
+    "foodAndSupplementsGuide": {
+      "eyebrow": "Dinheiro e Buffs",
+      "title": "Guia de Comida e Suplementos do Ultimate Gym Game",
+      "intro": "O dinheiro pode ser gasto em comida e suplementos, enquanto o sistema de coqueteleira permite que os buffs de treino sejam misturados e usados juntos. As melhores compras são aquelas que apoiam um plano de treino ativo, em vez de ficarem paradas no inventário sem uso.",
+      "items": [
+        {
+          "type": "Dinheiro",
+          "purpose": "Moeda principal usada para comprar comida e suplementos.",
+          "bestTiming": "Guarde-o até saber qual exercício, zona ou meta de progressão você treinará a seguir.",
+          "priority": "Essencial",
+          "spendingAdvice": "Mantenha dinheiro suficiente para compras repetidas úteis em vez de gastar todo o saldo imediatamente.",
+          "avoid": "Comprar vários buffs antes de testar se eles ajudam na sua rota de treino normal."
+        },
+        {
+          "type": "Comida",
+          "purpose": "Fornece buffs relacionados ao treino que apoiam os músculos e a progressão geral na academia.",
+          "bestTiming": "Use pouco antes de uma sessão de levantamento planejada.",
+          "priority": "Alta para treino ativo",
+          "spendingAdvice": "Escolha a comida quando tiver tempo suficiente para completar vários exercícios enquanto o buff for útil.",
+          "avoid": "Ativar a comida imediatamente antes de sair do servidor ou mudar de atividade."
+        },
+        {
+          "type": "Suplementos",
+          "purpose": "Adiciona bônus de progressão extras que podem ser combinados com uma rotina de treino focada.",
+          "bestTiming": "Use durante tentativas de recorde pessoal, sessões longas de hipertrofia ou progressão de exercícios avançados.",
+          "priority": "Média a alta",
+          "spendingAdvice": "Compre suplementos após estabelecer uma maneira confiável de ganhar dinheiro e uma rota de treino repetível.",
+          "avoid": "Tratar suplementos como um substituto para aumentar o peso e completar exercícios."
+        },
+        {
+          "type": "Shaker",
+          "purpose": "Mistura buffs compatíveis em uma configuração de treino conveniente.",
+          "bestTiming": "Prepare o shaker antes de entrar na zona de treino que planeja usar.",
+          "priority": "Alta assim que vários buffs estiverem disponíveis",
+          "spendingAdvice": "Combine buffs em torno de um objetivo claro, como força, hipertrofia ou resistência.",
+          "avoid": "Misturar bônus sem dinheiro suficiente ou tempo de sessão para se beneficiar deles."
+        },
+        {
+          "type": "Inventário",
+          "purpose": "Armazena itens de progressão comprados e outros equipamentos utilizáveis.",
+          "bestTiming": "Revise-o antes de comprar comida ou suplementos adicionais.",
+          "priority": "Ferramenta de gestão",
+          "spendingAdvice": "Use os itens existentes primeiro e reabasteça apenas os buffs usados na sua rotina regular.",
+          "avoid": "Recomprar itens que já estão disponíveis no inventário."
+        }
+      ]
+    },
+    "calisthenicsProgressionGuide": {
+      "eyebrow": "Progressão de Exercício",
+      "title": "Guia de Progressão de Calistenia do Ultimate Gym Game",
+      "intro": "Ultimate Gym Game inclui mais de 31 exercícios e um caminho dedicado à calistenia. Pull-Ups e Dips fornecem a base, enquanto estágios posteriores exigem um desempenho geral mais forte antes de alcançar o lendário Maltese.",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Base de Pull-Up",
+          "exercise": "Pull-Ups",
+          "focus": "Força básica de puxada",
+          "trainingPlan": [
+            "Comece com a variação de Pull-Up disponível.",
+            "Complete repetições consistentes antes de passar para conteúdos de calistenia mais difíceis.",
+            "Use o treinamento com pesos regular para fortalecer as costas e os braços junto com os Pull-Ups."
+          ],
+          "milestone": "Conclusões confiáveis de Pull-Up sem interromper o exercício."
+        },
+        {
+          "stage": 2,
+          "name": "Base de Dip",
+          "exercise": "Dips",
+          "focus": "Força de empurrar e controle da parte superior do corpo",
+          "trainingPlan": [
+            "Adicione Dips após estabelecer a força básica de puxada.",
+            "Alterne Pull-Ups e Dips para desenvolver ambos os lados da parte superior do corpo.",
+            "Apoie o progresso com exercícios de Bench Press, Dumbbells ou Cable Machines."
+          ],
+          "milestone": "Desempenho consistente tanto em Pull-Ups quanto em Dips."
+        },
+        {
+          "stage": 3,
+          "name": "Calistenia Avançada",
+          "exercise": "Movimentos de nível mais alto na progressão de calistenia",
+          "focus": "Progressão combinada de força e movimento",
+          "trainingPlan": [
+            "Continue pelo caminho de calistenia do jogo na ordem exibida.",
+            "Retorne às zonas de Força e Hipertrofia quando um movimento avançado se tornar difícil.",
+            "Aumente a força geral através de Squat, Deadlift, Bench Press, Dumbbells e Cable Machines."
+          ],
+          "milestone": "Complete os movimentos avançados que aparecem antes do estágio final do Maltese."
+        },
+        {
+          "stage": 4,
+          "name": "Marco Final da Calistenia",
+          "exercise": "Maltese",
+          "focus": "Progressão de calistenia de endgame",
+          "trainingPlan": [
+            "Tente o Maltese após completar as etapas anteriores de calistenia.",
+            "Use buffs de comida, suplementos e shakers para sessões de progressão dedicadas.",
+            "Continue melhorando seus recordes pessoais quando precisar de força adicional."
+          ],
+          "milestone": "Complete o Maltese e termine a progressão de calistenia atual."
+        }
+      ]
+    },
+    "updatesAndPatchNotes": {
+      "eyebrow": "Atualizações do Jogo",
+      "title": "Atualizações e Notas de Patch do Ultimate Gym Game",
+      "intro": "A versão live é marcada como uma build de atualização e recebe correções frequentes. Os recursos atuais cobrem mais de 31 exercícios, três zonas de treino, progressão corporal, calistenia, leaderboards, buffs consumíveis e suporte para jogadores de desktop, mobile e console.",
+      "entries": [
+        {
+          "date": "Build Live Atual",
+          "title": "Seleção Expandida de Academia e Exercícios",
+          "status": "Live",
+          "changes": [
+            "Mais de 31 exercícios estão disponíveis.",
+            "Os equipamentos confirmados incluem Bench Press, Squat, Deadlift, Cable Machines e Dumbbells.",
+            "Os exercícios de peso corporal incluem Pull-Ups, Dips e uma progressão de calistenia que termina com o Maltese."
+          ],
+          "impact": "Os jogadores podem combinar powerlifting, treino em máquinas, exercícios com dumbbells e calistenia em vez de depender de um único exercício."
+        },
+        {
+          "date": "Build Live Atual",
+          "title": "Sistemas de Treino e Progressão Corporal",
+          "status": "Live",
+          "changes": [
+            "O crescimento muscular real e a progressão de força estão ativos.",
+            "Zonas de treino separadas de Força, Hipertrofia e Endurance estão disponíveis.",
+            "Os jogadores podem usar bulking e cutting como parte da progressão corporal."
+          ],
+          "impact": "As rotas de treino podem ser organizadas em torno de levantamentos mais pesados, crescimento muscular ou endurance, em vez de repetir cada exercício igualmente."
+        },
+        {
+          "date": "Build Live Atual",
+          "title": "Recordes, Rankings e Competição",
+          "status": "Live",
+          "changes": [
+            "Recordes pessoais rastreiam o progresso individual de levantamento.",
+            "Leaderboards globais comparam o desempenho dos jogadores.",
+            "Títulos de rank sobre a cabeça progridem de Beginner a Grand Master."
+          ],
+          "impact": "Recordes pessoais fornecem uma maneira direta de medir a evolução, enquanto os rankings criam metas de progressão a longo prazo."
+        },
+        {
+          "date": "Build Atual (Live)",
+          "title": "Sistemas de Cash, Food e Supplement",
+          "status": "Live",
+          "changes": [
+            "Cash pode ser ganho e gasto em itens de progressão.",
+            "Food e supplements fornecem buffs de treino.",
+            "Buffs podem ser misturados através do sistema de coqueteleira.",
+            "Itens comprados podem ser gerenciados através do inventário."
+          ],
+          "impact": "Economizar cash e ativar buffs antes de sessões focadas pode tornar as compras de progressão mais úteis."
+        },
+        {
+          "date": "Build Atual (Live)",
+          "title": "Recursos de Plataforma e Qualidade de Vida",
+          "status": "Live",
+          "changes": [
+            "Suporte para mobile e console está disponível.",
+            "Os jogadores podem alternar os pesos exibidos entre quilogramas e libras.",
+            "O jogo inclui um sistema de inventário e player de música."
+          ],
+          "impact": "Os jogadores podem usar sua plataforma e unidade de peso preferidas enquanto mantêm os consumíveis organizados entre as sessões."
+        },
+        {
+          "date": "Em andamento",
+          "title": "Correções Frequentes e Reinicializações de Servidor",
+          "status": "Manutenção ativa",
+          "changes": [
+            "O desenvolvedor implementa correções regularmente.",
+            "Servidores ativos podem reiniciar quando alterações são lançadas.",
+            "A comunidade Roblox e o Discord oficial são os principais canais de anúncios."
+          ],
+          "impact": "Termine tentativas importantes de recorde pessoal antes de uma reinicialização agendada e entre novamente em um novo servidor após a implementação de uma atualização."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Perguntas",
+    "titleHighlight": "Frequentes",
+    "subtitle": "Tudo o que você precisa saber sobre o Ultimate Gym Game",
+    "questions": [
+      {
+        "question": "O que é o Ultimate Gym Game?",
+        "answer": "Ultimate Gym Game é um simulador de bodybuilding no Roblox focado em crescimento muscular realista, treino de strength, bulking e cutting em mais de 31 exercícios, com títulos de rank progredindo de Beginner a Grand Master."
+      },
+      {
+        "question": "Como resgato códigos no Ultimate Gym Game?",
+        "answer": "O Ultimate Gym Game não lista atualmente um menu público de resgate de códigos. Novos códigos, recompensas de eventos e anúncios de bônus aparecem através da comunidade oficial do Roblox e do servidor do Discord."
+      },
+      {
+        "question": "Quais exercícios posso treinar no Ultimate Gym Game?",
+        "answer": "Ultimate Gym Game inclui mais de 31 exercícios, incluindo Bench Press, Squat, Deadlift, Cable Machines, Dumbbells, Pull-Ups, Dips e uma progressão de calistenia que termina com o Maltese."
+      },
+      {
+        "question": "Quais são as training zones no Ultimate Gym Game?",
+        "answer": "Ultimate Gym Game tem três training zones: Strength para levantamentos mais pesados, Hypertrophy para crescimento muscular e Endurance para sessões de treino mais longas e resistência."
+      },
+      {
+        "question": "Como funcionam o bulking e o cutting no Ultimate Gym Game?",
+        "answer": "No Ultimate Gym Game, você pode crescer os músculos durante um bulk e reduzir o tamanho durante um cut, mantendo os principais levantamentos em rotação, para que o progresso de força continue junto com as mudanças corporais visíveis."
+      },
+      {
+        "question": "Onde posso jogar Ultimate Gym Game?",
+        "answer": "Ultimate Gym Game está disponível no Roblox para desktop, mobile e console. Você pode alternar os pesos exibidos entre quilogramas e libras dentro do jogo."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Pronto para ficar mais forte no Ultimate Gym Game?",
+    "description": "Junte-se à comunidade do Ultimate Gym Game para dicas de treino, códigos, atualizações e discussões!",
+    "joinCommunity": "Junte-se à Comunidade",
+    "joinGame": "Jogue no Roblox"
+  },
+  "footer": {
+    "title": "Wiki do Ultimate Gym Game",
+    "description": "Seu recurso completo para códigos, exercícios, treinos, nutrição, ranks e guias de progressão do Ultimate Gym Game no Roblox.",
+    "resources": "Recursos",
+    "community": "Comunidade",
+    "legal": "Termos Legais",
+    "robloxCommunity": "Comunidade do Roblox",
+    "youtube": "YouTube",
+    "robloxGame": "Jogo no Roblox",
+    "about": "Sobre",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Ultimate Gym Game Wiki. Não afiliado aos desenvolvedores do Ultimate Gym Game ou da Roblox Corporation.",
+    "disclaimer": "Site de recursos não oficial feito por fãs."
+  },
+  "pages": {
+    "codes": {
+      "title": "Códigos do Ultimate Gym Game",
+      "description": "Últimos códigos ativos do Ultimate Gym Game para dinheiro grátis, boosts e itens exclusivos. Atualizado regularmente com códigos de resgate verificados.",
+      "metaTitle": "Códigos do Ultimate Gym Game - Dinheiro Grátis e Boosts",
+      "metaDescription": "Consiga dinheiro grátis, boosts e itens exclusivos com códigos ativos do Ultimate Gym Game. Atualizado regularmente com códigos de resgate funcionando e verificados para o Roblox.",
+      "categoryLabel": "RESGATAR CÓDIGOS",
+      "whatIs": "O que são Códigos?",
+      "whatIsDescription": "Códigos são sequências de resgate gratuitas liberadas pelos desenvolvedores do Ultimate Gym Game que concedem dinheiro, boosts de treino e itens exclusivos. Insira-os no jogo para acelerar a progressão inicial e acumular recursos.",
+      "why": "Por que resgatar códigos?",
+      "whySteps": {
+        "step1Title": "Dinheiro Grátis e Boosts",
+        "step1Description": "Resgatar códigos concede dinheiro instantâneo e boosts de treino sem precisar de grind",
+        "step2Title": "Início de Jogo Mais Rápido",
+        "step2Description": "Use recursos gratuitos para comprar comida, suplementos e equipamentos mais cedo",
+        "step3Title": "Mantenha-se Atualizado",
+        "step3Description": "Novos códigos são lançados perto de atualizações e eventos, então volte sempre para conferir"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Códigos"
+    },
+    "guide": {
+      "title": "Guia do Ultimate Gym Game",
+      "description": "Guias completos do Ultimate Gym Game, desde o básico para iniciantes e controles até progressão, dicas e estratégias de treino avançadas.",
+      "metaTitle": "Guia do Ultimate Gym Game - Dicas para Iniciantes e Progressão",
+      "metaDescription": "Guias completos do Ultimate Gym Game cobrindo dicas para iniciantes, controles, caminhos de progressão e estratégias avançadas para dominar o simulador de fisiculturismo do Roblox.",
+      "categoryLabel": "GUIAS DE JOGO",
+      "whatIs": "O que são Guias?",
+      "whatIsDescription": "Os guias cobrem as mecânicas principais do Ultimate Gym Game, desde a sua primeira sessão de treino até a progressão avançada. Aprenda os controles, zonas de treino, gerenciamento de dinheiro e a ordem para desbloquear novos conteúdos.",
+      "why": "Por que ler os guias?",
+      "whySteps": {
+        "step1Title": "Aprenda as Mecânicas Principais",
+        "step1Description": "Entenda os controles, zonas de treino, crescimento muscular e sistemas de progressão",
+        "step2Title": "Progressão Rápida",
+        "step2Description": "Siga caminhos comprovados para ganhar força, tamanho e estamina com eficiência",
+        "step3Title": "Evite Erros de Iniciante",
+        "step3Description": "Gaste seu dinheiro com sabedoria e escolha os exercícios certos para seu objetivo"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias"
+    },
+    "exercises": {
+      "title": "Exercícios do Ultimate Gym Game",
+      "description": "Todos os exercícios e máquinas do Ultimate Gym Game explicados, incluindo Bench Press, Squat, Deadlift, calisthenics e dicas de ativação muscular.",
+      "metaTitle": "Exercícios do Ultimate Gym Game - Melhores Movimentos e Máquinas",
+      "metaDescription": "Navegue por todos os exercícios e máquinas do Ultimate Gym Game. Aprenda os melhores movimentos para peito, costas, pernas e braços, além de calisthenics e dicas de ativação muscular.",
+      "categoryLabel": "EXERCÍCIOS E MÁQUINAS",
+      "whatIs": "O que são Exercícios?",
+      "whatIsDescription": "Exercícios são os levantamentos e movimentos individuais no Ultimate Gym Game, cobrindo Bench Press, Squat, Deadlift, Cable Machines e calisthenics. Cada um foca em músculos específicos e se encaixa em diferentes zonas de treino.",
+      "why": "Por que estudar os exercícios?",
+      "whySteps": {
+        "step1Title": "Escolha os Movimentos Certos",
+        "step1Description": "Combine os exercícios com sua zona de treino e grupos musculares alvo",
+        "step2Title": "Domine a Forma e as Máquinas",
+        "step2Description": "Aprenda como cada máquina e levantamento funciona para um treino seguro e eficiente",
+        "step3Title": "Crie Rotinas Equilibradas",
+        "step3Description": "Combine levantamentos compostos, máquinas e calisthenics para o crescimento do corpo todo"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Exercícios"
+    },
+    "strength": {
+      "title": "Força no Ultimate Gym Game",
+      "description": "Guias de treino de força do Ultimate Gym Game cobrindo progressão de peso, força de pernas, personal records e como ficar mais forte rápido.",
+      "metaTitle": "Força no Ultimate Gym Game - Fique Mais Forte Rápido",
+      "metaDescription": "Domine o treino de força do Ultimate Gym Game. Aprenda sobre progressão de peso, força de pernas, personal records e as maneiras mais rápidas de ficar mais forte no simulador de academia do Roblox.",
+      "categoryLabel": "TREINO DE FORÇA",
+      "whatIs": "O que é Treino de Força?",
+      "whatIsDescription": "O treino de força no Ultimate Gym Game foca na zona de Strength, levantando pesos mais pesados para aumentar seu atributo de força e bater personal records. A progressão vem de aumentos graduais de peso e treinos consistentes.",
+      "why": "Por que treinar força?",
+      "whySteps": {
+        "step1Title": "Levante Mais Peso com o Tempo",
+        "step1Description": "Progrida o peso gradualmente para construir força bruta com segurança",
+        "step2Title": "Estabeleça Personal Records",
+        "step2Description": "Acompanhe e supere seus melhores levantamentos nos principais movimentos compostos",
+        "step3Title": "Desenvolva Poder nas Pernas e no Corpo Todo",
+        "step3Description": "Desenvolva uma força equilibrada com squats, deadlifts e presses"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Força"
+    },
+    "money": {
+      "title": "Dinheiro no Ultimate Gym Game",
+      "description": "Guias de como ganhar dinheiro no Ultimate Gym Game, cobrindo os melhores métodos de cash, rotas de início de jogo e prioridades de gastos inteligentes para comida e equipamentos.",
+      "metaTitle": "Dinheiro no Ultimate Gym Game - Melhores Métodos de Cash",
+      "metaDescription": "Aprenda os melhores métodos de ganhar dinheiro no Ultimate Gym Game, rotas de cash para o início do jogo e prioridades de gastos inteligentes para comida, suplementos e equipamentos.",
+      "categoryLabel": "DINHEIRO E CASH",
+      "whatIs": "O que é Dinheiro?",
+      "whatIsDescription": "Dinheiro (cash) é a moeda principal no Ultimate Gym Game, ganha através do treino e usada para comprar comida, suplementos, itens de coqueteleira e melhorias de equipamentos. Rotas de cash eficientes mantêm sua progressão constante.",
+      "why": "Por que gerenciar o dinheiro?",
+      "whySteps": {
+        "step1Title": "Ganhe Mais Rápido",
+        "step1Description": "Use the best money methods to maximize cash per session",
+        "step2Title": "Gaste com Inteligência",
+        "step2Description": "Priorize compras que combinem com seu objetivo de treino atual",
+        "step3Title": "Planeje o Cash do Início do Jogo",
+        "step3Description": "Siga uma rota inicial clara para evitar desperdiçar o cash inicial"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Dinheiro"
+    },
+    "nutrition": {
+      "title": "Nutrição no Ultimate Gym Game",
+      "description": "Guias de nutrição do Ultimate Gym Game cobrindo preços de alimentos, efeitos de suplementos, buffs de coqueteleira e como abastecer o crescimento muscular e a recuperação.",
+      "metaTitle": "Nutrição no Ultimate Gym Game - Comida e Suplementos",
+      "metaDescription": "Domine a nutrição no Ultimate Gym Game. Aprenda preços de alimentos, efeitos de suplementos, combinações de buffs de coqueteleira e como abastecer o crescimento muscular e a recuperação.",
+      "categoryLabel": "COMIDA E SUPLEMENTOS",
+      "whatIs": "O que é Nutrição?",
+      "whatIsDescription": "A nutrição no Ultimate Gym Game abrange comida, suplementos e buffs de coqueteleira que impulsionam o treino, a recuperação e o crescimento muscular. Cada item tem um preço, um efeito e uma duração de buff para você planejar.",
+      "why": "Por que acompanhar a nutrição?",
+      "whySteps": {
+        "step1Title": "Abasteça seu Treino",
+        "step1Description": "Coma a comida certa para aguentar sessões de levantamento de peso pesado",
+        "step2Title": "Acumule Efeitos de Suplementos",
+        "step2Description": "Combine suplementos e buffs de coqueteleira para resultados mais fortes",
+        "step3Title": "Gaste Cash com Eficiência",
+        "step3Description": "Compare preços de alimentos e o valor do buff antes de comprar"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Nutrição"
+    },
+    "physique": {
+      "title": "Físico no Ultimate Gym Game",
+      "description": "Guias de físico do Ultimate Gym Game cobrindo crescimento muscular, tamanho corporal, calorias de bulking e cutting, e como moldar o corpo do seu personagem.",
+      "metaTitle": "Físico no Ultimate Gym Game - Bulk, Cut e Crescimento Muscular",
+      "metaDescription": "Domine o físico no Ultimate Gym Game. Aprenda sobre crescimento muscular, tamanho corporal, calorias de bulking e cutting, e como moldar o corpo do seu personagem no simulador de academia do Roblox.",
+      "categoryLabel": "FÍSICO E MÚSCULO",
+      "whatIs": "O que é Físico?",
+      "whatIsDescription": "O físico no Ultimate Gym Game é como o corpo do seu personagem muda através do treino e da nutrição. O bulking aumenta o tamanho muscular com um excedente calórico, enquanto o cutting reduz a gordura com um déficit para revelar a definição.",
+      "why": "Por que planejar o físico?",
+      "whySteps": {
+        "step1Title": "Aumentar o Tamanho Muscular",
+        "step1Description": "Use um superávit calórico de bulking para ganhar massa nos grupos musculares alvo",
+        "step2Title": "Cutting para Revelar Definição",
+        "step2Description": "Mude para um déficit de cutting para reduzir gordura e exibir a forma muscular",
+        "step3Title": "Controlar o Tamanho Corporal",
+        "step3Description": "Ajuste as calorias para atingir o tamanho e as proporções corporais desejados"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Físico"
+    },
+    "upgrades": {
+      "title": "Upgrades do Ultimate Gym Game",
+      "description": "Guias de upgrades do Ultimate Gym Game cobrindo a melhor ordem de melhorias, zonas de treinamento, desbloqueios de zonas e desbloqueios de progressão para ganhos mais rápidos.",
+      "metaTitle": "Upgrades do Ultimate Gym Game - Melhor Ordem e Zonas",
+      "metaDescription": "Aprenda a melhor ordem de upgrades do Ultimate Gym Game, zonas de treinamento, desbloqueios de zonas e de progressão para maximizar os ganhos e desbloquear conteúdo mais rapidamente.",
+      "categoryLabel": "UPGRADES E ZONAS",
+      "whatIs": "O que são Upgrades?",
+      "whatIsDescription": "Upgrades no Ultimate Gym Game são melhorias permanentes e desbloqueios de zonas que aumentam a eficiência do treino e abrem novos exercícios. Escolher a ordem correta de upgrades acelera a progressão a longo prazo.",
+      "why": "Por que planejar upgrades?",
+      "whySteps": {
+        "step1Title": "Desbloquear Zonas de Treinamento",
+        "step1Description": "Abra novas zonas e exercícios que correspondam ao seu estágio de progressão",
+        "step2Title": "Escolha a Melhor Ordem",
+        "step2Description": "Priorize upgrades que multipliquem seu rendimento de treino",
+        "step3Title": "Desbloquear Conteúdo de Progressão",
+        "step3Description": "Acesse zonas e recursos avançados conforme você fica mais forte"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Upgrades"
+    }
   }
 }

@@ -1,4 +1,15 @@
 {
+  "seo": {
+    "home": {
+      "title": "Ultimate Gym Game Wiki - Kodlar, Egzersizler & İlerleme",
+      "description": "Ultimate Gym Game Wiki; kodları, egzersizleri, kas gelişimini, antrenman bölgelerini, yiyecekleri, takviyeleri, rütbeleri, rekorları, güncellemeleri ve başlangıç seviyesi ilerleme ipuçlarını içerir.",
+      "keywords": "Ultimate Gym Game, Roblox, kodlar, egzersizler, kaslar, antrenman, rütbeler, takviyeler",
+      "ogTitle": "Ultimate Gym Game Wiki - Kodlar, Egzersizler & İlerleme",
+      "ogDescription": "Ultimate Gym Game Wiki; kodları, egzersizleri, kas gelişimini, antrenman bölgelerini, yiyecekleri, takviyeleri, rütbeleri, rekorları, güncellemeleri ve başlangıç seviyesi ilerleme ipuçlarını içerir.",
+      "twitterTitle": "Ultimate Gym Game Wiki - Kodlar, Egzersizler & İlerleme",
+      "twitterDescription": "Ultimate Gym Game Wiki; Roblox oyunu için kodları, egzersizleri, kas gelişimini, antrenman bölgelerini, yiyecekleri, takviyeleri, rütbeleri ve ilerleme ipuçlarını içerir."
+    }
+  },
   "nav": {
     "codes": "Kodlar",
     "guide": "Rehber",
@@ -7,6 +18,702 @@
     "money": "Para",
     "nutrition": "Beslenme",
     "physique": "Fizik",
-    "upgrades": "Yükseltmeler"
+    "upgrades": "Geliştirmeler"
+  },
+  "common": {
+    "home": "Ana Sayfa",
+    "more": "Daha Fazla",
+    "playNow": "Roblox'ta Oyna",
+    "switchLanguage": "Dili Değiştir",
+    "switchTheme": "Temayı Değiştir",
+    "lightMode": "Açık Tema",
+    "darkMode": "Koyu Tema",
+    "notFound": "Sayfa Bulunamadı",
+    "notFoundDescription": "Aradığınız sayfa mevcut değil.",
+    "backToHome": "Ana Sayfaya Dön",
+    "relatedArticles": "İlgili Makaleler",
+    "readMore": "Devamını Oku",
+    "articlesComingSoon": "Makaleler yakında gelecek"
+  },
+  "hero": {
+    "badge": "Gerçekçi Vücut Geliştirme Simülatörü",
+    "title": "Ultimate Gym Game Wiki",
+    "description": "31'den fazla egzersizle ağırlık kaldır, geliş, bulk veya cut yap; güç, hipertrofi ve dayanıklılık antrenmanı yap, takviyeleri yönet, kişisel rekorlar kır ve rütbelerde yüksel.",
+    "getFreeCodesCTA": "Ücretsiz Kodları Al",
+    "playOnRobloxCTA": "Roblox'ta Oyna",
+    "stats": {
+      "stat1": {
+        "value": "31+",
+        "label": "Mevcut Egzersizler"
+      },
+      "stat2": {
+        "value": "3",
+        "label": "Antrenman Bölgeleri"
+      },
+      "stat3": {
+        "value": "Başlangıç → Grand Master",
+        "label": "Rütbe İlerlemesi"
+      },
+      "stat4": {
+        "value": "KG + LBS",
+        "label": "Ağırlık Birimleri"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Ultimate Gym Game Oynanış",
+    "description": "Bu Roblox vücut geliştirme simülatöründe 31'den fazla egzersizle güç, hipertrofi ve dayanıklılık antrenmanı yapın, yemek ve takviyeleri yönetin, kişisel rekorlar kırın ve Beginner'dan Grand Master'a yükselin."
+  },
+  "tools": {
+    "title": "Ultimate Gym Game",
+    "titleHighlight": "Kaynaklar",
+    "subtitle": "Ultimate Gym Game'deki kodlar, egzersizler, antrenman, beslenme ve ilerleme için ihtiyacınız olan her şey.",
+    "cards": [
+      {
+        "icon": "Hediye",
+        "title": "Ultimate Gym Game Kodları",
+        "description": "Mevcut kod durumu, ödüller ve resmi duyuru kanalları"
+      },
+      {
+        "icon": "KitapAç",
+        "title": "Ultimate Gym Game Beginner Rehberi",
+        "description": "İlk antrenman döngüsü, nakit, yemek ve erken aşama ilerleme"
+      },
+      {
+        "icon": "Kupa",
+        "title": "Ultimate Gym Game Egzersiz Tier Listesi",
+        "description": "Her egzersizi ilerleme hızı ve kullanışlılığına göre sıralayın"
+      },
+      {
+        "icon": "Dambıl",
+        "title": "Ultimate Gym Game Antrenman Bölgeleri",
+        "description": "Güç, Hipertrofi ve Dayanıklılık rutinlerini karşılaştırın"
+      },
+      {
+        "icon": "Tartı",
+        "title": "Ultimate Gym Game Bulk ve Cut",
+        "description": "Ne zaman hacim kazanacağınıza ve ne zaman definasyon (cut) yapacağınıza karar verin"
+      },
+      {
+        "icon": "Elma",
+        "title": "Ultimate Gym Game Yemek ve Takviyeler",
+        "description": "Nakit paranızı yemeklere, takviyelere ve shaker güçlendirmelerine harcayın"
+      },
+      {
+        "icon": "DikeyHareket",
+        "title": "Ultimate Gym Game Calisthenics",
+        "description": "Pull-Up ve Dips'ten Maltese'e kadar ilerleyin"
+      },
+      {
+        "icon": "Zil",
+        "title": "Ultimate Gym Game Güncellemeleri",
+        "description": "En yeni egzersizler, denge değişiklikleri ve yama notları"
+      }
+    ]
+  },
+  "modules": {
+    "codes": {
+      "eyebrow": "Kodlar ve Ödüller",
+      "title": "Ultimate Gym Game Kodları",
+      "intro": "Ultimate Gym Game şu anda herhangi bir genel ödül kodu veya oyun içi kod kullanma menüsü listelememektedir. Oyuncular gelecekteki kodlar, güncelleme ödülleri ve sınırlı süreli bonuslar için geliştiricinin Roblox topluluğunu ve Discord sunucusunu takip edebilir.",
+      "items": [
+        {
+          "status": "Mevcut",
+          "code": "Aktif Kod Yok",
+          "reward": "Herhangi bir genel kod ödülü mevcut değil",
+          "action": "Yeni ödül duyuruları için resmi topluluk kanallarını takip edin."
+        },
+        {
+          "status": "Kod Kullanımı",
+          "code": "Kod Menüsü",
+          "reward": "Şu anda herhangi bir kod kullanma menüsü listelenmiyor",
+          "action": "Gelecekteki bir kod sistemi normalde oyun içindeki Kodlar, Hediye veya Ayarlar butonu aracılığıyla görünür."
+        },
+        {
+          "status": "Resmi Kaynak",
+          "code": "Roblox Topluluğu",
+          "reward": "Oyun güncellemeleri ve geliştirici duyuruları",
+          "action": "Roblox'ta UGG - Gym Simulator'a katılın."
+        },
+        {
+          "status": "Resmi Kaynak",
+          "code": "Discord Sunucusu",
+          "reward": "Güncelleme haberleri, topluluk gönderileri ve olası etkinlik ödülleri",
+          "action": "Resmi Ultimate Gym Game Discord sunucusuna katılın."
+        }
+      ]
+    },
+    "beginnerGuide": {
+      "eyebrow": "Başlangıç",
+      "title": "Ultimate Gym Game Başlangıç Rehberi",
+      "intro": "Ultimate Gym Game; ağırlık antrenmanı, görünür kas gelişimi, kişisel rekorlar ve beslenmeyi birleştirir. Yeni oyuncular bir antrenman hedefi seçmeli, yönetilebilir ağırlıklar kullanmalı, egzersizlerde ilerlemeli ve kazandıkları parayı yiyecek, takviyeler ve antrenman güçlendirmelerine yatırmalıdır.",
+      "steps": [
+        {
+          "title": "Bir Antrenman Hedefi Seçin",
+          "description": "Daha ağır kaldırışlara mı, kas gelişimine mi yoksa daha uzun antrenman seanslarına mı öncelik vermek istediğinize karar verin. Bu hedefe uygun olan Strength, Hypertrophy veya Endurance bölgesini kullanın.",
+          "tip": "Her egzersizden sonra bölge değiştirmek yerine tek bir hedefle başlayın."
+        },
+        {
+          "title": "Temel Egzersizlerle Başlayın",
+          "description": "Karakterinizi geliştirmeye başlamak için Bench Press, Squat, Deadlift, Kablo Makineleri veya Dambıllar gibi erişilebilir egzersizleri kullanın.",
+          "tip": "Bileşik kaldırışlar, ana kas gruplarını kapsadıkları ve güç ilerlemesini destekledikleri için faydalı başlangıç tercihleridir."
+        },
+        {
+          "title": "Ağırlığı Kademeli Olarak Artırın",
+          "description": "Daha ağır ağırlıklara geçmeden önce başarılı antrenman seanslarını tamamlayın. Hemen en ağır yükü seçmek yerine gelişiminizi takip etmek için kişisel rekorları kullanın.",
+          "tip": "Yönetilebilir bir ağırlık, bir kaldırışta sürekli başarısız olmaktan daha istikrarlı bir ilerleme sağlar."
+        },
+        {
+          "title": "Para Kazanın ve Harcayın",
+          "description": "Para kazanmak için antrenman yapmaya devam edin, ardından bu parayı spor salonunda bulunan yiyecekler, takviyeler ve diğer ilerleme öğeleri için kullanın.",
+          "tip": "İsteğe bağlı ekstraları satın almadan önce ana antrenman hedefinizi destekleyen öğelere öncelik verin."
+        },
+        {
+          "title": "Shaker Güçlendirmeleri Hazırlayın",
+          "description": "Shaker sistemi aracılığıyla uyumlu yiyecek ve takviye etkilerini birleştirin, ardından oluşan öğeleri envanterinizden yönetin.",
+          "tip": "Etkilerinin birden fazla egzersizi desteklemesi için odaklanmış bir kaldırma seansından önce antrenman güçlendirmelerini kullanın."
+        },
+        {
+          "title": "Rekorlar ve Rütbe Geliştirin",
+          "description": "Kişisel rekorları geliştirin, Beginner'dan Grand Master'a kadar baş üstü rütbe unvanlarında ilerleyin ve gelişiminizi küresel liderlik tablolarında karşılaştırın.",
+          "tip": "Birkaç egzersizdeki tutarlı artışlar, yalnızca tek bir kaldırışa odaklanmaktan daha güvenilir bir ilerleme sağlar."
+        }
+      ]
+    },
+    "exerciseTierList": {
+      "eyebrow": "Egzersiz Sıralamaları",
+      "title": "Ultimate Gym Game Egzersiz Tier Listesi",
+      "intro": "Ultimate Gym Game; ana halter kaldırışlarından makinelere, dambıllara ve ileri seviye kalisteniklere kadar 31'den fazla egzersiz içerir. Bu sıralama, geniş ilerleme, net kişisel rekor hedefleri ve üç antrenman bölgesinde faydalı seçenekler sunan egzersizlere öncelik verir.",
+      "tiers": [
+        {
+          "tier": "S",
+          "label": "Temel İlerleme",
+          "exercises": [
+            "Bench Press",
+            "Squat",
+            "Deadlift"
+          ],
+          "bestFor": "Güç ilerlemesi, kişisel rekorlar ve ana kas grupları",
+          "summary": "Üç ana bileşik kaldırış, net ağırlık ilerlemesi sağlar ve her yönden bir antrenman temeli oluşturan oyuncular için güçlü seçeneklerdir."
+        },
+        {
+          "tier": "A",
+          "label": "Esnek Kas Antrenmanı",
+          "exercises": [
+            "Cable Machines",
+            "Dumbbells"
+          ],
+          "bestFor": "Hipertrofi odaklı rutinler ve yardımcı antrenmanlar",
+          "summary": "Kablo ve dambıl egzersizleri, esnek hareket seçenekleri sunarak oyuncuların ana bileşik egzersizlerden daha az doğrudan etki alan kasları çalıştırmalarına yardımcı olur."
+        },
+        {
+          "tier": "A",
+          "label": "Vücut Ağırlığı İlerlemesi",
+          "exercises": [
+            "Pull-Ups",
+            "Dips"
+          ],
+          "bestFor": "Üst vücut gücü ve kalistenik hazırlığı",
+          "summary": "Pull-up ve dip egzersizleri, üst vücut gelişimini destekleyen ve oyuncuları gelişmiş kalistenik yoluna hazırlayan yararlı vücut ağırlığı egzersizleridir."
+        },
+        {
+          "tier": "B",
+          "label": "Gelişmiş Kalistenik",
+          "exercises": [
+            "Kalistenik İlerlemesi",
+            "Maltese"
+          ],
+          "bestFor": "Uzun vadeli vücut ağırlığı uzmanlığı ve oyun sonu hedefleri",
+          "summary": "Kalistenik rotası, efsanevi Maltese ile zirveye ulaşır; bu da temel güç ve antrenman kaynaklarını oluşturduktan sonra bunu değerli bir uzun vadeli hedef haline getirir."
+        }
+      ]
+    },
+    "trainingZones": {
+      "eyebrow": "Antrenman Sistemleri",
+      "title": "Ultimate Gym Game Antrenman Bölgeleri",
+      "intro": "Spor salonu, farklı ilerleme hedeflerine göre tasarlanmış üç antrenman bölgesine ayrılmıştır. Güç daha ağır kaldırmayı destekler, Hipertrofi kas büyümesine odaklanır ve Dayanıklılık ise daha uzun antrenman performansını destekler.",
+      "zones": [
+        {
+          "zone": "Güç",
+          "primaryGoal": "Daha ağır kilolar kaldırın",
+          "trainingFocus": "Maksimum güç ve kişisel rekor ilerlemesi",
+          "recommendedFor": "En iyi kaldırışlarını geliştirmek ve güce dayalı rekor tırmanışı yapmak isteyen oyuncular",
+          "exerciseExamples": [
+            "Bench Press",
+            "Squat",
+            "Deadlift"
+          ],
+          "progressSignal": "Daha yüksek başarılı kaldırma ağırlığı ve geliştirilmiş kişisel rekorlar"
+        },
+        {
+          "zone": "Hipertrofi",
+          "primaryGoal": "Kas büyümesini artırın",
+          "trainingFocus": "Düzenli egzersiz çalışmalarıyla görünür kas inşa etmek",
+          "recommendedFor": "Karakterlerini büyütmeye ve dengeli bir fizik oluşturmaya odaklanan oyuncular",
+          "exerciseExamples": [
+            "Cable Machines",
+            "Dumbbells",
+            "Bench Press",
+            "Dips"
+          ],
+          "progressSignal": "Çalıştırılan vücut bölgelerinde sürekli kas gelişimi"
+        },
+        {
+          "zone": "Dayanıklılık",
+          "primaryGoal": "Daha uzun süre antrenman yapın",
+          "trainingFocus": "Sürdürülebilir egzersiz performansı ve dayanıklılık",
+          "recommendedFor": "Daha uzun seanslar ve gelişmiş tekrarlı efor performansı isteyen oyuncular",
+          "exerciseExamples": [
+            "Pull-Up'lar",
+            "Dips",
+            "Dumbbell'lar",
+            "Kalistenik Egzersizleri"
+          ],
+          "progressSignal": "Performans düşmeden önce daha uzun süreli antrenman"
+        }
+      ]
+    },
+    "bulkAndCutGuide": {
+      "eyebrow": "Vücut Gelişimi",
+      "title": "Ultimate Gym Game Bulk ve Cut Rehberi",
+      "intro": "Ultimate Gym Game, oyuncuların kas geliştirmesine, gücünü artırmasına ve bulk ile cut arasında geçiş yapmasına olanak tanır. Basit bir yaklaşım, önce güvenilir kaldırışlar belirlemek, hacim kazanmaya odaklanmış bir süre harcamak ve yalnızca bir fizik veya güç dönüm noktasına ulaştıktan sonra cut yapmaktır.",
+      "phases": [
+        {
+          "step": 1,
+          "phase": "Bir Güç Temeli Oluşturun",
+          "goal": "Uzun vadeli bir vücut aşaması seçmeden önce ölçülebilir bir ilerleme kaydedin.",
+          "actions": [
+            "Bench Press, Squat ve Deadlift gibi temel egzersizleri uygulayın.",
+            "Rutinleri sürekli değiştirmek yerine Güç veya Hipertrofi antrenman bölgesini kullanın.",
+            "Mevcut kişisel rekorlarınızı kaydedin, böylece sonraki ilerlemeleri karşılaştırmak kolay olur."
+          ],
+          "checkpoint": "Stabil bir rutininiz olduğunda ve ana kaldırışlarınızı düzenli olarak geliştirebildiğinizde ilerleyin."
+        },
+        {
+          "step": 2,
+          "phase": "Bulk'a Başlayın",
+          "goal": "Antrenman ağırlığını artırmaya devam ederken kas hacmine öncelik verin.",
+          "actions": [
+            "Görünür hacim ve kas gelişimi ana hedefleriniz olduğunda bulk seçeneğini belirleyin.",
+            "Bileşik kaldırışları rutinde tutarken seansların çoğunu Hipertrofi bölgesinde geçirin.",
+            "Daha uzun antrenman seanslarında yiyecek, takviye ve shaker buff'larını kullanın."
+          ],
+          "checkpoint": "Seçtiğiniz hacim hedefine ulaşana veya güç gelişiminiz yavaşlamaya başlayana kadar devam edin."
+        },
+        {
+          "step": 3,
+          "phase": "Gücü Koruyun",
+          "goal": "Yararlı spor salonu performansını artırmadan hacim kazanmaktan kaçının.",
+          "actions": [
+            "Bench Press, Squat ve Deadlift'i düzenli rotasyonda tutun.",
+            "İlerlemeyi yalnızca karakter boyutuna göre değerlendirmek yerine kişisel rekorları kontrol edin.",
+            "Daha ağır ağırlıkları test etmek için Güç bölgesini periyodik olarak kullanın."
+          ],
+          "checkpoint": "Verimli bir bulk, hem kas gelişimini hem de en azından bazı temel kaldırış rekorlarını geliştirmelidir."
+        },
+        {
+          "step": 4,
+          "phase": "Cut'a Başlayın",
+          "goal": "Önceki güç kazanımlarını korurken vücut hacmini azaltın veya definasyonu geliştirin.",
+          "actions": [
+            "Net bir bulk dönüm noktasını tamamladıktan sonra cut aşamasına geçin.",
+            "Tüm rutini dayanıklılık çalışmasıyla değiştirmek yerine güce odaklı egzersizlere devam edin.",
+            "Tekrar bulk yapıp yapmamaya karar vermeden önce vücut görünümünü ve kişisel rekorları gözden geçirin."
+          ],
+          "checkpoint": "İstenilen fiziğe ulaşıldığında cut dönemini bitirin, ardından odaklanmış bir güç veya kas geliştirme aşamasına geri dönün."
+        }
+      ]
+    },
+    "foodAndSupplementsGuide": {
+      "eyebrow": "Nakit ve Buff'lar",
+      "title": "Ultimate Gym Game Yiyecek ve Takviye Rehberi",
+      "intro": "Nakit, yiyecek ve takviyeler için harcanabilir; shaker sistemi ise antrenman buff'larının karıştırılmasına ve birlikte kullanılmasına olanak tanır. En iyi satın alımlar, envanterde kullanılmadan durmak yerine aktif bir antrenman planını destekleyenlerdir.",
+      "items": [
+        {
+          "type": "Nakit",
+          "purpose": "Yiyecek ve takviye satın almak için kullanılan temel para birimi.",
+          "bestTiming": "Bir sonraki adımda hangi egzersiz, bölge veya ilerleme hedefi için antrenman yapacağınızı bilene kadar bunu biriktirin.",
+          "priority": "Temel",
+          "spendingAdvice": "Tüm bakiyenizi hemen harcamak yerine, yararlı ve tekrarlanan satın alımlar için yeterli nakit bulundurun.",
+          "avoid": "Normal antrenman rotanıza yardımcı olup olmadıklarını test etmeden önce birkaç güçlendirici satın almak."
+        },
+        {
+          "type": "Yiyecek",
+          "purpose": "Kas ve genel spor salonu gelişimini destekleyen antrenmanla ilgili güçlendiriciler sağlar.",
+          "bestTiming": "Planlanmış bir ağırlık kaldırma seansından kısa bir süre önce kullanın.",
+          "priority": "Aktif antrenman için yüksek",
+          "spendingAdvice": "Güçlendirici etkiliyken birkaç egzersizi tamamlamak için yeterli zamanınız olduğunda yiyecek tercih edin.",
+          "avoid": "Sunucudan ayrılmadan veya aktiviteleri değiştirmeden hemen önce yiyecek aktifleştirmek."
+        },
+        {
+          "type": "Takviyeler",
+          "purpose": "Odaklanmış bir antrenman rutini ile birleştirilebilecek ekstra gelişim bonusları ekler.",
+          "bestTiming": "Kişisel rekor denemeleri, uzun hipertrofi seansları veya gelişmiş egzersiz ilerlemesi sırasında kullanın.",
+          "priority": "Orta ila yüksek",
+          "spendingAdvice": "Nakit kazanmak için güvenilir bir yol ve tekrarlanabilir bir antrenman rotası oluşturduktan sonra takviye satın alın.",
+          "avoid": "Takviyeleri, ağırlık artırmanın ve egzersizleri tamamlamanın yerine geçen bir şey olarak görmek."
+        },
+        {
+          "type": "Shaker",
+          "purpose": "Uyumlu güçlendiricileri pratik bir antrenman düzeninde karıştırır.",
+          "bestTiming": "Kullanmayı planladığınız antrenman bölgesine girmeden önce shaker'ı hazırlayın.",
+          "priority": "Birden fazla güçlendirici kullanılabilir olduğunda yüksek",
+          "spendingAdvice": "Güçlendiricileri; güç, hipertrofi veya dayanıklılık gibi net bir hedef etrafında birleştirin.",
+          "avoid": "Bunlardan yararlanmak için yeterli nakit veya seans süresi olmadan bonusları karıştırmak."
+        },
+        {
+          "type": "Envanter",
+          "purpose": "Satın alınan gelişim öğelerini ve diğer kullanılabilir ekipmanları depolar.",
+          "bestTiming": "Ek yiyecek veya takviye satın almadan önce envanteri gözden geçirin.",
+          "priority": "Yönetim aracı",
+          "spendingAdvice": "Öncelikle mevcut öğeleri kullanın ve yalnızca düzenli rutininizde kullandığınız güçlendiricileri yenileyin.",
+          "avoid": "Envanterde zaten mevcut olan öğeleri tekrar satın almak."
+        }
+      ]
+    },
+    "calisthenicsProgressionGuide": {
+      "eyebrow": "Egzersiz İlerlemesi",
+      "title": "Ultimate Gym Game Kalistenik Gelişim Rehberi",
+      "intro": "Ultimate Gym Game, 31'den fazla egzersiz ve özel bir kalistenik yolu içerir. Pull-Up ve Dips hareketleri temeli oluştururken, sonraki aşamalar efsanevi Maltese hareketine ulaşmadan önce daha güçlü bir genel performans gerektirir.",
+      "stages": [
+        {
+          "stage": 1,
+          "name": "Pull-Up Temeli",
+          "exercise": "Pull-Up",
+          "focus": "Temel çekiş gücü",
+          "trainingPlan": [
+            "Mevcut Pull-Up varyasyonu ile başlayın.",
+            "Daha zor kalistenik içeriklerine geçmeden önce tutarlı tekrarları tamamlayın.",
+            "Pull-Up'ların yanı sıra sırtı ve kolları güçlendirmek için düzenli ağırlık antrenmanı yapın."
+          ],
+          "milestone": "Egzersizi yarıda kesmeden güvenilir Pull-Up tamamlamaları."
+        },
+        {
+          "stage": 2,
+          "name": "Dip Temeli",
+          "exercise": "Dips",
+          "focus": "İtiş gücü ve üst vücut kontrolü",
+          "trainingPlan": [
+            "Temel çekiş gücü oluşturduktan sonra Dips ekle.",
+            "Üst vücudun her iki tarafını geliştirmek için Pull-Ups ve Dips hareketlerini dönüşümlü yap.",
+            "İlerlemeyi Bench Press, Dumbbells veya Cable Machine egzersizleriyle destekle."
+          ],
+          "milestone": "Hem Pull-Ups hem de Dips hareketlerinde istikrarlı performans."
+        },
+        {
+          "stage": 3,
+          "name": "İleri Seviye Calisthenics",
+          "exercise": "Calisthenics ilerlemesindeki üst düzey hareketler",
+          "focus": "Birleşik güç ve hareket ilerlemesi",
+          "trainingPlan": [
+            "Oyun içi calisthenics yolunda gösterilen sırayla devam et.",
+            "İleri seviye bir hareket zorlaştığında Güç ve Hipertrofi bölgelerine geri dön.",
+            "Squat, Deadlift, Bench Press, Dumbbells ve Cable Machines ile genel gücünü artır."
+          ],
+          "milestone": "Final Maltese aşamasından önce görünen ileri seviye hareketleri tamamla."
+        },
+        {
+          "stage": 4,
+          "name": "Final Calisthenics Kilometre Taşı",
+          "exercise": "Maltese",
+          "focus": "Oyun sonu calisthenics ilerlemesi",
+          "trainingPlan": [
+            "Önceki calisthenics aşamalarını tamamladıktan sonra Maltese hareketini dene.",
+            "Özel ilerleme seansları için yemek, takviye ve shaker buff'larını kullan.",
+            "Ekstra güç gerektiğinde kişisel rekorlarını geliştirmeye devam et."
+          ],
+          "milestone": "Maltese hareketini tamamla ve mevcut calisthenics ilerlemesini bitir."
+        }
+      ]
+    },
+    "updatesAndPatchNotes": {
+      "eyebrow": "Oyun Güncellemeleri",
+      "title": "Ultimate Gym Game Güncellemeleri ve Yama Notları",
+      "intro": "Canlı sürüm bir güncelleme yapısı olarak işaretlenmiştir ve sık sık düzeltmeler alır. Mevcut özellikler 31'den fazla egzersizi, üç antrenman bölgesini, vücut gelişimini, calisthenics'i, liderlik tablolarını, tüketilebilir buff'ları ve masaüstü, mobil ve konsol oyuncuları için desteği kapsar.",
+      "entries": [
+        {
+          "date": "Mevcut Canlı Sürüm",
+          "title": "Genişletilmiş Spor Salonu ve Egzersiz Seçimi",
+          "status": "Canlı",
+          "changes": [
+            "31'den fazla egzersiz mevcuttur.",
+            "Onaylanan ekipmanlar arasında Bench Press, Squat, Deadlift, Cable Machines ve Dumbbells bulunur.",
+            "Vücut ağırlığı egzersizleri arasında Pull-Ups, Dips ve Maltese ile biten bir calisthenics ilerlemesi yer alır."
+          ],
+          "impact": "Oyuncular tek bir egzersize güvenmek yerine powerlifting, makine antrenmanı, dumbbell çalışması ve calisthenics'i birleştirebilirler."
+        },
+        {
+          "date": "Mevcut Canlı Sürüm",
+          "title": "Antrenman ve Vücut Gelişim Sistemleri",
+          "status": "Canlı",
+          "changes": [
+            "Gerçek kas büyümesi ve güç ilerlemesi aktiftir.",
+            "Ayrı Güç, Hipertrofi ve Endurance antrenman bölgeleri mevcuttur.",
+            "Oyuncular vücut gelişiminin bir parçası olarak bulking ve cutting yapabilirler."
+          ],
+          "impact": "Antrenman rotaları, her egzersizi eşit şekilde tekrarlamak yerine daha ağır kaldırışlar, kas büyümesi veya dayanıklılık etrafında organize edilebilir."
+        },
+        {
+          "date": "Mevcut Canlı Sürüm",
+          "title": "Rekorlar, Sıralamalar ve Rekabet",
+          "status": "Canlı",
+          "changes": [
+            "Kişisel rekorlar, bireysel ağırlık kaldırma ilerlemesini takip eder.",
+            "Küresel liderlik tabloları oyuncu performanslarını karşılaştırır.",
+            "Baş üstü rütbe unvanları Beginner'dan Grand Master'a doğru ilerler."
+          ],
+          "impact": "Kişisel rekorlar gelişimi ölçmek için doğrudan bir yol sunarken, sıralamalar daha uzun vadeli ilerleme hedefleri oluşturur."
+        },
+        {
+          "date": "Mevcut Canlı Sürüm",
+          "title": "Para, Yiyecek ve Takviye Sistemleri",
+          "status": "Canlı",
+          "changes": [
+            "Para kazanılabilir ve ilerleme ögelerine harcanabilir.",
+            "Yiyecekler ve takviyeler antrenman buff'ları sağlar.",
+            "Buff'lar shaker sistemi aracılığıyla karıştırılabilir.",
+            "Satın alınan ögeler envanter üzerinden yönetilebilir."
+          ],
+          "impact": "Odaklanmış seanslardan önce para biriktirmek ve buff'ları etkinleştirmek, ilerleme satın alımlarını daha yararlı hale getirebilir."
+        },
+        {
+          "date": "Mevcut Canlı Sürüm",
+          "title": "Platform ve Yaşam Kalitesi Özellikleri",
+          "status": "Canlı",
+          "changes": [
+            "Mobil ve konsol desteği mevcuttur.",
+            "Oyuncular gösterilen ağırlıkları kilogram ve pound arasında değiştirebilirler.",
+            "Oyun bir envanter sistemi ve müzik çalar içerir."
+          ],
+          "impact": "Oyuncular, seanslar arasında sarf malzemelerini düzenli tutarken tercih ettikleri platformu ve ağırlık birimini kullanabilirler."
+        },
+        {
+          "date": "Devam Eden",
+          "title": "Sık Yapılan Düzeltmeler ve Sunucu Yeniden Başlatmaları",
+          "status": "Aktif bakım",
+          "changes": [
+            "Geliştirici düzenli olarak düzeltmeler yayınlar.",
+            "Değişiklikler yayınlandığında canlı sunucular yeniden başlayabilir.",
+            "Roblox topluluğu ve resmi Discord, ana duyuru kanallarıdır."
+          ],
+          "impact": "Planlı bir yeniden başlatmadan önce önemli kişisel rekor denemelerinizi tamamlayın ve bir güncelleme yayınlandıktan sonra yeni bir sunucuya yeniden katılın."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Sıkça Sorulan",
+    "titleHighlight": "Sorular",
+    "subtitle": "Ultimate Gym Game hakkında bilmeniz gereken her şey",
+    "questions": [
+      {
+        "question": "Ultimate Gym Game nedir?",
+        "answer": "Ultimate Gym Game, 31'den fazla egzersizde gerçekçi kas büyümesi, güç antrenmanı, bulking ve cutting işlemlerine odaklanan ve rütbe unvanları Beginner'dan Grand Master'a kadar ilerleyen bir Roblox vücut geliştirme simülatörüdür."
+      },
+      {
+        "question": "Ultimate Gym Game'de kodları nasıl kullanırım?",
+        "answer": "Ultimate Gym Game şu anda herkese açık bir kod kullanma menüsü sunmamaktadır. Yeni kodlar, etkinlik ödülleri ve bonus duyuruları resmi Roblox topluluğu ve Discord sunucusu üzerinden yayınlanır."
+      },
+      {
+        "question": "Ultimate Gym Game'de hangi egzersizleri çalışabilirim?",
+        "answer": "Ultimate Gym Game; Bench Press, Squat, Deadlift, Cable Machines, Dumbbells, Pull-Ups, Dips ve Maltese ile biten bir kalistenik ilerlemesi dahil olmak üzere 31'den fazla egzersiz içerir."
+      },
+      {
+        "question": "Ultimate Gym Game'deki antrenman bölgeleri nelerdir?",
+        "answer": "Ultimate Gym Game'de üç antrenman bölgesi vardır: Daha ağır kaldırışlar için Güç (Strength), kas büyümesi için Hipertrofi (Hypertrophy) ve daha uzun antrenman seansları ile kondisyon için Dayanıklılık (Endurance)."
+      },
+      {
+        "question": "Ultimate Gym Game'de bulking ve cutting nasıl çalışır?",
+        "answer": "Ultimate Gym Game'de, ana kaldırışları rotasyonda tutarken bulk döneminde kas geliştirebilir ve cut döneminde vücut ölçünüzü küçültebilirsiniz; böylece gözle görülür vücut değişikliklerinin yanı sıra güç gelişiminiz de devam eder."
+      },
+      {
+        "question": "Ultimate Gym Game'i nerede oynayabilirim?",
+        "answer": "Ultimate Gym Game; masaüstü, mobil ve konsol için Roblox'ta mevcuttur. Oyun içinde gösterilen ağırlıkları kilogram ve pound arasında değiştirebilirsiniz."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ultimate Gym Game'de Daha Güçlü Olmaya Hazır mısın?",
+    "description": "Antrenman ipuçları, kodlar, güncellemeler ve tartışmalar için Ultimate Gym Game topluluğuna katılın!",
+    "joinCommunity": "Topluluğa Katıl",
+    "joinGame": "Roblox'ta Oyna"
+  },
+  "footer": {
+    "title": "Ultimate Gym Game Wiki",
+    "description": "Roblox'taki Ultimate Gym Game kodları, egzersizler, antrenman, beslenme, rütbeler ve ilerleme kılavuzları için eksiksiz kaynağınız.",
+    "resources": "Kaynaklar",
+    "community": "Topluluk",
+    "legal": "Yasal",
+    "robloxCommunity": "Roblox Topluluğu",
+    "youtube": "YouTube",
+    "robloxGame": "Roblox Oyunu",
+    "about": "Hakkında",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Hizmet Şartları",
+    "copyrightNotice": "Telif Hakkı",
+    "copyright": "© 2026 Ultimate Gym Game Wiki. Ultimate Gym Game geliştiricileri veya Roblox Corporation ile bağlantılı değildir.",
+    "disclaimer": "Resmi olmayan hayran yapımı kaynak sitesi."
+  },
+  "pages": {
+    "codes": {
+      "title": "Ultimate Gym Game Kodları",
+      "description": "Ücretsiz nakit, takviyeler ve özel eşyalar için en son çalışan Ultimate Gym Game kodları. Doğrulanmış kullanım kodlarıyla düzenli olarak güncellenir.",
+      "metaTitle": "Ultimate Gym Game Kodları - Ücretsiz Nakit ve Takviyeler",
+      "metaDescription": "Aktif Ultimate Gym Game kodlarıyla ücretsiz nakit, takviyeler ve özel eşyalar kazanın. Roblox için doğrulanmış çalışan kullanım kodlarıyla düzenli olarak güncellenir.",
+      "categoryLabel": "KODLARI KULLAN",
+      "whatIs": "Kodlar Nedir?",
+      "whatIsDescription": "Kodlar, Ultimate Gym Game geliştiricileri tarafından yayınlanan ve nakit, antrenman takviyeleri ve özel eşyalar sağlayan ücretsiz kullanım dizeleridir. Erken aşamadaki ilerlemeyi hızlandırmak ve kaynak biriktirmek için bunları oyun içinde girin.",
+      "why": "Neden kodları kullanmalısınız?",
+      "whySteps": {
+        "step1Title": "Ücretsiz Nakit ve Takviyeler",
+        "step1Description": "Kullanım kodları, uğraşmanıza gerek kalmadan anında nakit ve antrenman takviyeleri sağlar",
+        "step2Title": "Daha Hızlı Oyun Başlangıcı",
+        "step2Description": "Yiyecek, takviye ve ekipmanları daha erken satın almak için ücretsiz kaynakları kullanın",
+        "step3Title": "Güncel Kalın",
+        "step3Description": "Güncellemeler ve etkinlikler civarında yeni kodlar gelir, bu nedenle düzenli olarak kontrol edin"
+      },
+      "featured": "Öne Çıkanlar ve Temel Bilgiler",
+      "all": "Tüm Kodlar"
+    },
+    "guide": {
+      "title": "Ultimate Gym Game Rehberi",
+      "description": "Başlangıç seviyesindeki temel bilgilerden ve kontrollerden ilerleme, ipuçları ve ileri düzey antrenman stratejilerine kadar eksiksiz Ultimate Gym Game rehberleri.",
+      "metaTitle": "Ultimate Gym Game Rehberi - Başlangıç İpuçları ve İlerleme",
+      "metaDescription": "Roblox vücut geliştirme simülatöründe ustalaşmak için başlangıç ipuçlarını, kontrolleri, ilerleme yollarını ve ileri düzey stratejileri kapsayan eksiksiz Ultimate Gym Game rehberleri.",
+      "categoryLabel": "OYUN REHBERLERİ",
+      "whatIs": "Rehberler Nedir?",
+      "whatIsDescription": "Rehberler, ilk antrenman seansınızdan ileri düzey ilerlemeye kadar Ultimate Gym Game'in temel mekaniklerini kapsar. Kontrolleri, antrenman bölgelerini, para yönetimini ve yeni içeriklerin kilidini açma sırasını öğrenin.",
+      "why": "Neden rehberleri okumalısınız?",
+      "whySteps": {
+        "step1Title": "Temel Mekanikleri Öğrenin",
+        "step1Description": "Kontrolleri, antrenman bölgelerini, kas gelişimini ve ilerleme sistemlerini anlayın",
+        "step2Title": "Hızlı İlerleme",
+        "step2Description": "Güç, hacim ve dayanıklılığı verimli bir şekilde inşa etmek için kanıtlanmış yolları takip edin",
+        "step3Title": "Başlangıç Hatalarından Kaçının",
+        "step3Description": "Paranızı akıllıca harcayın ve hedefinize uygun doğru egzersizleri seçin"
+      },
+      "featured": "Öne Çıkanlar ve Temel Bilgiler",
+      "all": "Tüm Rehberler"
+    },
+    "exercises": {
+      "title": "Ultimate Gym Game Egzersizleri",
+      "description": "Bench Press, Squat, Deadlift, calisthenics ve kas aktivasyonu ipuçları dahil olmak üzere her Ultimate Gym Game egzersizi ve makinesi açıklanmıştır.",
+      "metaTitle": "Ultimate Gym Game Egzersizleri - En İyi Hareketler ve Makineler",
+      "metaDescription": "Tüm Ultimate Gym Game egzersizlerine ve makinelerine göz atın. Göğüs, sırt, bacaklar ve kollar için en iyi hareketlerin yanı sıra calisthenics ve kas aktivasyonu ipuçlarını öğrenin.",
+      "categoryLabel": "EGZERSİZLER & MAKİNELER",
+      "whatIs": "Egzersizler Nedir?",
+      "whatIsDescription": "Egzersizler; Bench Press, Squat, Deadlift, Cable Machines ve calisthenics antrenmanlarını kapsayan, Ultimate Gym Game'deki bireysel kaldırışlar ve hareketlerdir. Her biri belirli kasları hedefler ve farklı antrenman bölgelerine uyum sağlar.",
+      "why": "Neden egzersizleri incelemelisiniz?",
+      "whySteps": {
+        "step1Title": "Doğru Hareketleri Seçin",
+        "step1Description": "Egzersizleri antrenman bölgenizle ve hedef kas gruplarınızla eşleştirin",
+        "step2Title": "Form ve Makinelerde Ustalaşın",
+        "step2Description": "Güvenli ve verimli bir antrenman için her makinenin ve kaldırışın nasıl çalıştığını öğrenin",
+        "step3Title": "Dengeli Rutinler Oluşturun",
+        "step3Description": "Tüm vücut gelişimi için bileşik kaldırışları, makineleri ve calisthenics hareketlerini birleştirin"
+      },
+      "featured": "Öne Çıkanlar ve Temel Bilgiler",
+      "all": "Tüm Egzersizler"
+    },
+    "strength": {
+      "title": "Ultimate Gym Game Güç",
+      "description": "Ağırlık artırımı, bacak gücü, kişisel rekorlar ve nasıl hızlıca daha güçlü olunacağını kapsayan Ultimate Gym Game güç antrenmanı rehberleri.",
+      "metaTitle": "Ultimate Gym Game Güç - Hızla Güçlenin",
+      "metaDescription": "Ultimate Gym Game güç antrenmanında ustalaşın. Roblox spor salonu simülatöründe ağırlık artırımını, bacak gücünü, kişisel rekorları ve daha güçlü olmanın en hızlı yollarını öğrenin.",
+      "categoryLabel": "GÜÇ ANTRENMANI",
+      "whatIs": "Güç Antrenmanı Nedir?",
+      "whatIsDescription": "Ultimate Gym Game'deki güç antrenmanı, güç istatistiğinizi artırmak ve kişisel rekorlar kırmak için daha ağır ağırlıklar kaldırmaya, yani Strength bölgesine odaklanır. İlerleme, kademeli ağırlık artışlarından ve istikrarlı kaldırmaktan gelir.",
+      "why": "Neden güç antrenmanı yapmalısınız?",
+      "whySteps": {
+        "step1Title": "Zamanla Daha Ağır Kaldırın",
+        "step1Description": "Saf gücü güvenli bir şekilde inşa etmek için ağırlığı kademeli olarak artırın",
+        "step2Title": "Kişisel Rekorlar Kırın",
+        "step2Description": "Başlıca bileşik hareketlerde en iyi kaldırışlarınızı takip edin ve geçin",
+        "step3Title": "Bacak ve Tüm Vücut Gücü İnşa Edin",
+        "step3Description": "Squat, deadlift ve press hareketlerinden dengeli bir güç geliştirin"
+      },
+      "featured": "Öne Çıkanlar ve Temel Bilgiler",
+      "all": "Tüm Güç Rehberleri"
+    },
+    "money": {
+      "title": "Ultimate Gym Game Para",
+      "description": "En iyi nakit yöntemlerini, oyun başı rotalarını ve yiyecek ile ekipman için akıllı harcama önceliklerini içeren Ultimate Gym Game para kazanma rehberleri.",
+      "metaTitle": "Ultimate Gym Game Para - En İyi Nakit Yöntemleri",
+      "metaDescription": "En iyi Ultimate Gym Game para kazanma yöntemlerini, oyun başı nakit rotalarını ve yiyecek, takviyeler ve ekipman için akıllı harcama önceliklerini öğrenin.",
+      "categoryLabel": "PARA & NAKİT",
+      "whatIs": "Para Nedir?",
+      "whatIsDescription": "Para (nakit), Ultimate Gym Game'deki temel para birimidir; antrenman yaparak kazanılır ve yiyecek, takviyeler, shaker eşyaları ve ekipman yükseltmeleri satın almak için kullanılır. Verimli nakit rotaları ilerlemenizi istikrarlı tutar.",
+      "why": "Neden parayı yönetmelisiniz?",
+      "whySteps": {
+        "step1Title": "Daha Hızlı Kazanın",
+        "step1Description": "Seans başına nakdi en üst düzeye çıkarmak için en iyi para yöntemlerini kullanın",
+        "step2Title": "Akıllıca Harcayın",
+        "step2Description": "Mevcut antrenman hedefinize uygun satın alımlara öncelik verin",
+        "step3Title": "Oyun Başı Nakdini Planlayın",
+        "step3Description": "Başlangıç nakdini boşa harcamamak için net bir oyun başı rotası izleyin"
+      },
+      "featured": "Öne Çıkanlar & Temel Bilgiler",
+      "all": "Tüm Para Rehberleri"
+    },
+    "nutrition": {
+      "title": "Ultimate Gym Game Beslenme",
+      "description": "Yiyecek fiyatlarını, takviye etkilerini, shaker güçlendirmelerini ve kas gelişimi ile toparlanmayı nasıl destekleyeceğinizi kapsayan Ultimate Gym Game beslenme rehberleri.",
+      "metaTitle": "Ultimate Gym Game Beslenme - Yiyecek & Takviyeler",
+      "metaDescription": "Ultimate Gym Game beslenmesinde ustalaşın. Yiyecek fiyatlarını, takviye etkilerini, shaker güçlendirme kombinasyonlarını ve kas gelişimi ile toparlanmayı nasıl destekleyeceğinizi öğrenin.",
+      "categoryLabel": "YİYECEK & TAKVİYELER",
+      "whatIs": "Beslenme Nedir?",
+      "whatIsDescription": "Ultimate Gym Game'deki beslenme; antrenmanı, toparlanmayı ve kas gelişimini artıran yiyecekleri, takviyeleri ve shaker güçlendirmelerini kapsar. Her ögenin planlama yapabileceğiniz bir fiyatı, etkisi ve güçlendirme süresi vardır.",
+      "why": "Neden beslenmeyi takip etmelisiniz?",
+      "whySteps": {
+        "step1Title": "Antrenmanınızı Güçlendirin",
+        "step1Description": "Ağır kaldırma seanslarını başarıyla tamamlamak için doğru yiyecekleri yiyin",
+        "step2Title": "Takviye Etkilerini Birleştirin",
+        "step2Description": "Daha güçlü sonuçlar için takviyeleri ve shaker güçlendirmelerini birleştirin",
+        "step3Title": "Nakdi Verimli Harcayın",
+        "step3Description": "Satın almadan önce yiyecek fiyatlarını ve güçlendirme değerini karşılaştırın"
+      },
+      "featured": "Öne Çıkanlar & Temel Bilgiler",
+      "all": "Tüm Beslenme Rehberleri"
+    },
+    "physique": {
+      "title": "Ultimate Gym Game Fizik",
+      "description": "Kas gelişimini, vücut ölçüsünü, bulking ve definasyon kalorilerini ve karakterinizin vücudunu nasıl şekillendireceğinizi kapsayan Ultimate Gym Game fizik rehberleri.",
+      "metaTitle": "Ultimate Gym Game Fizik - Bulk, Definasyon & Kas Gelişimi",
+      "metaDescription": "Ultimate Gym Game fiziğinde ustalaşın. Roblox gym simülatöründe kas gelişimini, vücut ölçüsünü, bulking ve definasyon kalorilerini ve karakterinizin vücudunu nasıl şekillendireceğinizi öğrenin.",
+      "categoryLabel": "FİZİK & KAS",
+      "whatIs": "Fizik Nedir?",
+      "whatIsDescription": "Ultimate Gym Game'deki fizik, karakterinizin vücudunun antrenman ve beslenme yoluyla nasıl değiştiğidir. Bulking, kalori fazlasıyla kas boyutunu artırırken; definasyon, kas belirginliğini ortaya çıkarmak için kalori açığıyla yağı azaltır.",
+      "why": "Neden fizik planlamalı?",
+      "whySteps": {
+        "step1Title": "Kas Kütlesini Artır",
+        "step1Description": "Hedef kas gruplarında kütle oluşturmak için bulk kalori fazlasını kullan",
+        "step2Title": "Tanımı Ortaya Çıkarmak İçin Cut Yap",
+        "step2Description": "Yağ oranını azaltmak ve kas formunu göstermek için cut kalori açığına geç",
+        "step3Title": "Vücut Ölçüsünü Kontrol Et",
+        "step3Description": "Hedef vücut ölçüne ve oranlarına ulaşmak için kalorileri ayarla"
+      },
+      "featured": "Öne Çıkanlar ve Temel Bilgiler",
+      "all": "Tüm Fizik Rehberleri"
+    },
+    "upgrades": {
+      "title": "Ultimate Gym Game Geliştirmeleri",
+      "description": "Daha hızlı kazanımlar için en iyi geliştirme sırasını, antrenman bölgelerini, bölge kilitlerini ve ilerleme kilitlerini kapsayan Ultimate Gym Game geliştirme rehberleri.",
+      "metaTitle": "Ultimate Gym Game Geliştirmeleri - En İyi Sıralama ve Bölgeler",
+      "metaDescription": "Kazanımları maksimize etmek ve içerikleri daha hızlı açmak için en iyi Ultimate Gym Game geliştirme sırasını, antrenman bölgelerini, bölge kilitlerini ve ilerleme kilitlerini öğren.",
+      "categoryLabel": "GELİŞTİRMELER VE BÖLGELER",
+      "whatIs": "Geliştirmeler Nedir?",
+      "whatIsDescription": "Ultimate Gym Game'deki geliştirmeler, antrenman verimliliğini artıran ve yeni egzersizler açan kalıcı iyileştirmeler ve bölge kilitleridir. Doğru geliştirme sırasını seçmek uzun vadeli ilerlemeyi hızlandırır.",
+      "why": "Neden geliştirmeleri planlamalı?",
+      "whySteps": {
+        "step1Title": "Antrenman Bölgelerinin Kilidini Aç",
+        "step1Description": "İlerleme aşamana uygun yeni bölgeler ve egzersizler aç",
+        "step2Title": "En İyi Sırayı Seç",
+        "step2Description": "Antrenman verimini katlayan geliştirmelere öncelik ver",
+        "step3Title": "İlerleme İçeriklerinin Kilidini Aç",
+        "step3Description": "Güçlendikçe gelişmiş bölgelere ve özelliklere eriş"
+      },
+      "featured": "Öne Çıkanlar ve Temel Bilgiler",
+      "all": "Tüm Geliştirme Rehberleri"
+    }
   }
 }
